@@ -1,0 +1,5 @@
+employee_id,department,education,job_level,gender,age,experience_years,manager_tenure,salary_percentile_band,projects_count,avg_task_delay_days,on_time_delivery_rate,story_points_completed,billable_hours_ratio,training_hours,certifications_count,sick_days,unplanned_absences,avg_login_hours,peer_feedback_score,manager_score,kudos_count,promotions_in_2y
+SIM_001_HIGH,Engineering,Masters,Senior,Female,32,8.5,2.5,Tier-3 (Senior),8,-1.5,0.96,145,0.94,48,3,2,0,8.9,4.8,4.7,16,0
+SIM_002_LOW,Sales,Bachelors,Junior,Male,24,1.2,0.8,Tier-1 (Entry),2,16.5,0.52,38,0.6,6,0,12,9,7.1,2.1,2.2,1,0
+SIM_003_MED,Product,Bachelors,Mid-Level,Male,29,5.0,2.0,Tier-2 (Mid),5,3.2,0.81,82,0.8,26,1,5,2,8.2,3.6,3.5,5,0
+SIM_004_TALENT_AT_RISK,Marketing,Masters,Mid-Level,Female,28,4.5,1.2,Tier-2 (Mid),6,1.0,0.9,95,0.88,8,0,3,1,8.4,4.1,3.9,9,0

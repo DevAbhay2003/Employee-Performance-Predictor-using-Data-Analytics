@@ -1,0 +1,501 @@
+employee_id,department,education,job_level,gender,age,experience_years,manager_tenure,salary_percentile_band,projects_count,avg_task_delay_days,on_time_delivery_rate,story_points_completed,billable_hours_ratio,training_hours,certifications_count,sick_days,unplanned_absences,avg_login_hours,peer_feedback_score,manager_score,kudos_count,promotions_in_2y,perf_band_next
+EMP_2705,Engineering,Bachelors,Senior,Male,43,13.7,4.7,Tier-3 (Senior),1,3.5,0.74,58,0.84,41,2,5,5,8.2,2.6,3.2,3,0,Low
+EMP_1052,Finance,Masters,Junior,Female,22,1.2,2.7,Tier-2 (Mid),4,-5.0,0.94,130,0.87,47,2,3,0,8.7,4.0,4.4,12,1,High
+EMP_2434,Engineering,Bachelors,Senior,Female,35,8.1,1.7,Tier-3 (Senior),10,-2.5,0.92,94,0.94,41,2,5,2,8.5,3.9,4.1,7,1,High
+EMP_2370,Finance,Bachelors,Mid-Level,Female,33,7.2,0.6,Tier-2 (Mid),1,4.1,0.78,45,0.77,23,0,3,1,7.8,2.8,3.0,4,0,Medium
+EMP_2371,Engineering,Bachelors,Junior,Male,23,2.1,2.4,Tier-1 (Entry),8,-5.0,0.91,132,0.96,36,5,1,3,9.0,4.2,4.5,12,1,High
+EMP_1019,Engineering,Masters,Senior,Male,41,13.3,3.1,Tier-3 (Senior),1,7.0,0.7,51,0.66,18,1,6,3,7.3,2.3,2.5,0,0,Low
+EMP_3491,Engineering,Bachelors,Mid-Level,Male,30,5.2,4.7,Tier-1 (Entry),3,4.2,0.71,78,0.85,2,1,6,3,8.2,3.8,3.1,3,0,Medium
+EMP_2262,Engineering,Bachelors,Junior,Female,23,2.6,2.9,Tier-1 (Entry),5,1.0,0.73,73,0.83,24,0,6,3,8.4,3.2,3.2,4,0,Medium
+EMP_2363,Product,Bachelors,Mid-Level,Female,33,5.9,1.3,Tier-2 (Mid),6,6.2,0.84,72,0.89,42,0,3,2,8.3,3.9,3.6,5,0,Medium
+EMP_1206,Engineering,Bachelors,Senior,Female,35,8.5,4.5,Tier-3 (Senior),3,14.7,0.63,36,0.84,21,0,5,6,7.6,2.4,2.0,2,0,Low
+EMP_3223,Engineering,Bachelors,Junior,Female,24,1.5,2.9,Tier-1 (Entry),8,-0.4,0.89,80,0.96,39,2,2,1,9.3,3.4,4.0,13,1,Medium
+EMP_1852,Engineering,PhD,Senior,Female,41,12.6,4.7,Tier-3 (Senior),8,0.7,0.79,113,0.8,40,2,9,2,9.2,3.9,4.1,10,0,Medium
+EMP_3218,Customer Support,Bachelors,Lead,Male,53,22.5,5.5,Tier-4 (Lead/Exec),9,-0.7,0.98,81,0.87,52,2,3,2,9.0,3.9,3.5,6,0,Medium
+EMP_1092,Marketing,Bachelors,Senior,Female,42,12.2,1.8,Tier-3 (Senior),4,6.2,0.79,45,0.77,35,3,5,0,8.0,3.0,3.1,6,0,Medium
+EMP_1355,Product,Bachelors,Mid-Level,Male,28,3.9,6.0,Tier-2 (Mid),7,0.6,0.87,130,0.89,47,6,5,2,8.3,3.8,4.2,8,1,High
+EMP_1533,Product,Bachelors,Senior,Male,40,12.4,1.9,Tier-3 (Senior),6,6.1,0.78,66,0.81,19,0,1,4,8.6,3.8,3.1,6,0,Medium
+EMP_2528,Customer Support,Masters,Mid-Level,Non-Binary,32,7.0,1.2,Tier-3 (Senior),5,8.9,0.69,46,0.72,23,0,4,7,7.4,2.5,2.3,0,0,Low
+EMP_1075,Marketing,Masters,Mid-Level,Male,32,6.0,4.8,Tier-2 (Mid),8,-2.0,0.91,130,0.82,43,2,7,1,9.1,3.8,5.0,12,1,High
+EMP_1840,Engineering,PhD,Mid-Level,Female,31,3.7,3.9,Tier-2 (Mid),4,1.2,0.74,68,0.68,2,0,2,2,7.9,3.2,3.5,3,0,Medium
+EMP_2234,Product,Bachelors,Mid-Level,Male,32,6.8,3.3,Tier-2 (Mid),2,-3.6,0.84,87,0.9,37,1,3,1,8.3,3.9,3.6,12,0,High
+EMP_2547,Product,Bachelors,Mid-Level,Female,33,7.0,2.7,Tier-2 (Mid),1,12.4,0.65,20,0.75,5,0,1,4,7.3,1.3,2.1,3,0,Low
+EMP_2990,Marketing,Bachelors,Lead,Male,50,22.6,5.6,Tier-4 (Lead/Exec),8,1.5,0.86,123,0.91,50,3,1,1,8.7,4.4,3.7,6,0,High
+EMP_2723,Engineering,Masters,Mid-Level,Male,31,7.0,5.8,Tier-1 (Entry),5,0.9,0.81,105,0.94,50,1,5,3,9.0,4.2,4.0,12,0,High
+EMP_1256,Finance,Bachelors,Junior,Male,24,1.9,4.5,Tier-1 (Entry),7,-5.0,0.92,137,0.97,56,4,5,1,8.9,4.0,4.4,8,1,High
+EMP_3187,Marketing,Bachelors,Mid-Level,Male,33,6.9,2.8,Tier-2 (Mid),3,9.7,0.76,62,0.72,15,1,5,4,8.0,1.9,2.4,0,0,Low
+EMP_2716,Engineering,Bachelors,Junior,Female,24,3.3,5.3,Tier-1 (Entry),5,10.2,0.72,57,0.73,13,2,7,3,8.0,3.5,2.1,3,0,Low
+EMP_2447,Customer Support,Masters,Mid-Level,Female,28,4.3,4.4,Tier-3 (Senior),4,9.8,0.72,35,0.71,21,1,3,5,8.5,2.8,3.0,2,0,Low
+EMP_2919,Sales,Bachelors,Mid-Level,Male,29,4.7,4.2,Tier-1 (Entry),2,4.6,0.72,87,0.86,31,0,1,2,8.7,3.4,2.2,2,0,Medium
+EMP_1400,Engineering,Bachelors,Junior,Female,23,1.2,0.8,Tier-1 (Entry),1,3.7,0.67,61,0.86,22,1,7,3,8.7,3.0,2.8,4,0,Medium
+EMP_3288,Sales,Bachelors,Lead,Male,48,16.5,5.4,Tier-4 (Lead/Exec),4,5.4,0.79,70,0.82,33,0,4,5,7.7,3.4,3.2,5,0,Medium
+EMP_2500,Sales,Bachelors,Junior,Female,26,2.7,2.6,Tier-1 (Entry),7,2.6,0.84,90,0.8,45,2,2,1,8.2,3.1,2.9,6,0,Medium
+EMP_3117,Product,Masters,Junior,Female,23,2.8,2.1,Tier-3 (Senior),6,-1.5,0.91,119,0.95,28,4,4,1,8.8,4.1,4.4,11,1,High
+EMP_2134,Marketing,Bachelors,Junior,Male,24,1.6,2.1,Tier-1 (Entry),6,2.0,0.78,94,0.76,30,3,5,2,8.3,3.5,4.0,11,0,Medium
+EMP_2648,Customer Support,Masters,Mid-Level,Male,32,4.1,1.5,Tier-1 (Entry),5,-1.2,0.79,74,0.84,30,3,1,1,8.3,3.4,2.7,3,0,Medium
+EMP_2472,Customer Support,Bachelors,Mid-Level,Male,33,6.8,4.3,Tier-3 (Senior),5,1.0,0.75,91,0.88,41,2,8,3,8.1,4.1,3.8,13,0,Medium
+EMP_1554,Customer Support,Masters,Senior,Female,42,12.2,1.2,Tier-3 (Senior),8,1.0,0.87,93,0.86,50,3,2,0,7.9,3.4,3.9,7,0,Medium
+EMP_2987,Sales,Bachelors,Mid-Level,Male,33,7.1,1.5,Tier-2 (Mid),5,2.9,0.79,98,0.83,24,3,3,8,8.1,3.5,3.3,3,0,Medium
+EMP_1949,Product,Bachelors,Senior,Female,40,14.1,3.0,Tier-3 (Senior),2,9.9,0.68,42,0.69,9,0,6,5,7.7,1.9,1.4,2,0,Low
+EMP_1221,Product,Masters,Mid-Level,Female,31,5.5,2.2,Tier-1 (Entry),4,9.7,0.72,55,0.82,29,0,3,3,7.3,2.9,2.8,3,0,Low
+EMP_1175,Engineering,Bachelors,Senior,Female,42,13.2,3.6,Tier-2 (Mid),5,1.4,0.83,91,0.79,40,2,6,3,8.2,3.7,3.7,8,0,Medium
+EMP_1028,Product,Bachelors,Senior,Female,36,7.7,5.4,Tier-3 (Senior),4,12.5,0.6,73,0.75,17,0,3,4,7.2,1.8,2.2,1,0,Low
+EMP_3139,Customer Support,Masters,Junior,Male,25,2.3,1.7,Tier-1 (Entry),5,4.3,0.87,25,0.88,2,1,3,2,7.0,2.9,3.1,5,0,Medium
+EMP_1347,Engineering,Bachelors,Junior,Male,26,2.6,2.4,Tier-1 (Entry),4,7.3,0.68,42,0.73,16,1,5,1,7.7,2.5,2.7,4,0,Low
+EMP_2927,Sales,Bachelors,Mid-Level,Female,31,6.6,2.9,Tier-2 (Mid),2,11.3,0.62,34,0.79,26,1,4,4,7.6,2.6,1.8,0,0,Low
+EMP_2760,Sales,Bachelors,Junior,Male,26,3.3,2.7,Tier-2 (Mid),6,5.4,0.77,68,0.8,29,2,11,2,8.1,2.4,3.4,5,0,Medium
+EMP_2536,Engineering,Diploma,Mid-Level,Male,32,5.8,4.4,Tier-2 (Mid),9,-1.7,0.87,126,0.82,38,1,3,3,9.1,4.4,4.2,12,0,High
+EMP_2303,Sales,Diploma,Senior,Non-Binary,39,9.2,2.8,Tier-2 (Mid),9,1.4,0.85,99,0.8,23,1,3,1,8.3,3.8,4.2,8,1,Medium
+EMP_2766,Marketing,Masters,Lead,Male,49,19.5,0.7,Tier-4 (Lead/Exec),3,2.7,0.66,98,0.85,51,4,5,3,7.9,3.8,4.3,5,0,Medium
+EMP_1374,Engineering,Masters,Mid-Level,Female,31,5.2,4.5,Tier-1 (Entry),10,-5.0,1.0,123,0.89,53,1,3,0,9.5,3.8,4.9,10,1,High
+EMP_3280,Engineering,Bachelors,Mid-Level,Male,34,7.6,1.0,Tier-2 (Mid),10,-5.0,1.0,102,0.84,41,2,6,2,8.4,4.4,4.6,13,1,High
+EMP_2551,Product,Masters,Mid-Level,Female,32,6.6,0.5,Tier-2 (Mid),7,-1.2,0.94,118,0.91,44,1,6,1,8.7,4.9,4.6,13,1,High
+EMP_2977,Sales,Bachelors,Senior,Female,40,10.0,0.7,Tier-2 (Mid),3,1.0,0.81,88,0.83,41,3,2,1,8.0,3.8,3.2,10,0,Medium
+EMP_2390,Engineering,Masters,Junior,Male,23,2.8,2.2,Tier-1 (Entry),8,2.2,0.89,65,0.79,33,0,5,0,8.2,3.3,3.7,6,0,Medium
+EMP_1012,Customer Support,Bachelors,Mid-Level,Male,32,7.5,0.9,Tier-2 (Mid),7,1.6,0.83,93,0.92,39,1,4,0,8.5,4.2,3.6,12,1,High
+EMP_1697,Product,Masters,Mid-Level,Male,29,4.6,4.7,Tier-2 (Mid),3,0.3,0.78,93,0.8,10,1,4,5,8.3,3.8,3.5,10,0,Medium
+EMP_2805,Marketing,Bachelors,Senior,Male,39,13.1,3.5,Tier-3 (Senior),8,1.4,0.84,67,0.86,29,1,5,2,8.4,3.8,3.6,11,0,Medium
+EMP_2276,Engineering,Masters,Junior,Non-Binary,23,0.6,1.6,Tier-1 (Entry),6,3.0,0.86,65,0.8,14,4,5,3,8.9,3.8,4.2,5,0,Medium
+EMP_1575,Finance,Masters,Junior,Male,23,1.7,5.2,Tier-1 (Entry),1,6.3,0.84,68,0.92,30,3,0,2,8.0,4.2,4.1,5,0,Medium
+EMP_3227,Product,Masters,Junior,Male,23,2.4,0.8,Tier-2 (Mid),5,-0.5,0.88,89,0.95,42,2,3,2,8.9,4.3,4.4,9,0,High
+EMP_1613,Engineering,Bachelors,Junior,Female,22,1.0,3.4,Tier-1 (Entry),1,14.6,0.63,41,0.7,9,0,4,6,7.0,1.7,1.3,1,0,Low
+EMP_1770,Engineering,Bachelors,Mid-Level,Male,32,6.3,1.4,Tier-2 (Mid),5,2.4,0.8,76,0.75,31,0,8,4,8.4,3.4,3.2,8,0,Medium
+EMP_1938,Engineering,PhD,Junior,Female,21,0.5,3.0,Tier-2 (Mid),3,7.6,0.71,73,0.74,26,0,4,6,8.0,3.0,2.6,2,0,Low
+EMP_1091,Marketing,Masters,Junior,Female,24,0.8,4.9,Tier-1 (Entry),1,8.8,0.63,20,0.84,21,0,3,2,7.7,2.4,1.8,0,0,Low
+EMP_3001,Engineering,Bachelors,Junior,Female,24,0.6,2.9,Tier-1 (Entry),2,2.5,0.77,89,0.84,24,1,3,4,8.3,2.7,3.1,7,0,Medium
+EMP_1425,Sales,PhD,Mid-Level,Male,29,4.9,4.8,Tier-2 (Mid),5,3.6,0.77,91,0.74,21,1,2,5,7.5,2.9,3.2,5,0,Medium
+EMP_1310,Sales,Bachelors,Junior,Male,25,3.1,5.3,Tier-1 (Entry),7,0.2,0.86,75,0.93,52,1,3,2,7.7,3.7,3.3,8,0,Medium
+EMP_2811,Marketing,Diploma,Junior,Male,25,2.7,3.5,Tier-1 (Entry),3,5.3,0.72,109,0.94,34,1,4,5,8.1,3.8,2.5,7,0,Medium
+EMP_2403,Marketing,Bachelors,Senior,Female,33,7.7,3.1,Tier-4 (Lead/Exec),10,-3.2,0.93,133,0.98,46,0,5,2,9.3,4.7,4.7,8,1,High
+EMP_2128,Sales,Masters,Junior,Male,23,1.8,5.9,Tier-1 (Entry),6,4.9,0.84,68,0.8,29,3,8,2,9.0,2.1,3.2,7,0,Medium
+EMP_2257,Sales,Bachelors,Mid-Level,Male,34,7.2,2.0,Tier-2 (Mid),4,2.3,0.8,109,0.79,33,1,10,3,7.8,3.3,3.4,8,0,Medium
+EMP_1117,Engineering,Bachelors,Mid-Level,Female,31,6.6,3.6,Tier-2 (Mid),4,-5.0,0.9,116,0.87,48,1,1,0,8.7,4.6,4.6,19,0,High
+EMP_1837,Sales,Masters,Mid-Level,Male,32,8.0,1.6,Tier-2 (Mid),2,13.5,0.63,20,0.74,22,1,2,7,6.7,2.3,1.5,1,0,Low
+EMP_3271,Sales,Bachelors,Lead,Male,47,16.5,5.6,Tier-2 (Mid),11,-1.4,0.87,116,1.0,23,3,4,0,8.4,4.6,4.8,13,1,High
+EMP_1946,Engineering,Masters,Junior,Female,22,1.1,2.3,Tier-2 (Mid),8,10.3,0.66,30,0.72,19,0,3,3,7.6,3.0,3.0,2,0,Low
+EMP_1786,Product,Bachelors,Junior,Male,23,0.9,0.8,Tier-2 (Mid),6,-1.5,0.95,128,0.84,43,3,3,1,7.9,4.3,4.0,12,0,High
+EMP_2464,Finance,Bachelors,Senior,Female,37,8.2,2.8,Tier-3 (Senior),1,11.1,0.72,40,0.7,10,0,2,3,7.0,2.4,2.1,0,0,Low
+EMP_2968,Engineering,Diploma,Mid-Level,Male,28,4.4,2.7,Tier-3 (Senior),9,-1.3,0.91,116,0.79,46,1,4,1,8.8,4.5,4.6,16,1,High
+EMP_1299,Engineering,Bachelors,Junior,Male,22,1.1,4.7,Tier-1 (Entry),3,10.4,0.67,51,0.75,17,1,2,10,7.6,1.9,2.5,0,0,Low
+EMP_2535,Engineering,Diploma,Junior,Female,26,3.1,2.7,Tier-1 (Entry),7,-4.9,0.89,149,0.93,43,5,5,4,7.9,4.3,4.3,9,0,High
+EMP_2429,Customer Support,Bachelors,Mid-Level,Non-Binary,34,7.4,3.9,Tier-2 (Mid),4,1.8,0.86,89,0.77,33,1,2,3,7.8,4.0,3.4,7,0,Medium
+EMP_3111,Engineering,Bachelors,Lead,Male,55,23.1,0.9,Tier-4 (Lead/Exec),2,7.0,0.81,125,0.86,47,2,2,3,8.7,3.8,3.8,13,0,Medium
+EMP_2906,Finance,Diploma,Junior,Male,24,1.6,1.3,Tier-1 (Entry),4,7.0,0.73,89,0.76,10,1,5,5,8.2,3.1,2.7,0,0,Medium
+EMP_2289,Engineering,Diploma,Mid-Level,Female,31,4.7,2.9,Tier-2 (Mid),2,1.6,0.79,72,0.91,35,3,3,3,8.1,4.5,4.2,6,0,High
+EMP_1060,Sales,Masters,Lead,Female,50,20.2,4.0,Tier-3 (Senior),4,5.2,0.79,90,0.75,37,3,7,4,8.1,2.5,2.6,6,0,Medium
+EMP_3488,Product,Masters,Mid-Level,Male,32,5.6,1.8,Tier-2 (Mid),6,4.9,0.79,92,0.88,28,2,9,2,8.1,3.4,3.2,7,0,Medium
+EMP_3454,Product,Bachelors,Senior,Male,41,14.4,1.2,Tier-3 (Senior),2,4.9,0.88,54,0.82,25,2,3,2,7.6,2.8,3.5,3,0,Medium
+EMP_3321,Marketing,Bachelors,Mid-Level,Female,33,6.5,2.7,Tier-2 (Mid),1,12.0,0.79,48,0.84,15,2,4,4,7.8,2.7,3.1,2,0,Low
+EMP_2362,Product,Bachelors,Junior,Female,24,2.7,0.8,Tier-1 (Entry),11,1.1,0.87,97,0.79,21,3,0,4,7.7,3.1,3.1,3,0,Medium
+EMP_1166,Engineering,Bachelors,Junior,Female,22,1.4,3.3,Tier-1 (Entry),5,6.3,0.71,73,0.71,19,0,4,5,8.1,2.3,2.6,3,0,Low
+EMP_3145,Customer Support,Masters,Senior,Female,41,12.5,5.7,Tier-3 (Senior),2,1.8,0.78,88,0.89,30,3,6,3,8.2,3.4,3.7,7,0,Medium
+EMP_3395,Engineering,Bachelors,Junior,Male,23,1.1,4.6,Tier-3 (Senior),8,2.2,0.85,107,0.92,31,0,5,2,8.8,3.0,3.6,9,0,Medium
+EMP_1871,Engineering,Bachelors,Junior,Male,25,1.3,4.4,Tier-1 (Entry),3,12.8,0.79,60,0.77,2,0,4,3,7.2,3.1,2.1,2,0,Low
+EMP_1477,Product,Bachelors,Mid-Level,Female,34,6.3,1.5,Tier-2 (Mid),8,-1.3,0.9,95,0.91,55,4,5,1,8.8,3.6,3.3,7,1,High
+EMP_3470,Engineering,Bachelors,Senior,Male,37,9.3,2.3,Tier-2 (Mid),7,1.9,0.71,62,0.89,13,1,4,0,7.7,3.5,3.4,2,0,Medium
+EMP_2957,Sales,Bachelors,Mid-Level,Female,30,3.7,0.6,Tier-2 (Mid),5,6.7,0.87,79,0.78,48,3,3,3,8.6,3.1,3.2,5,0,Medium
+EMP_2025,Sales,Bachelors,Junior,Male,25,2.4,5.5,Tier-1 (Entry),5,7.4,0.8,76,0.92,14,2,4,5,7.8,3.1,2.9,6,0,Medium
+EMP_2455,Finance,Masters,Junior,Male,25,1.9,5.5,Tier-2 (Mid),8,3.5,0.83,75,0.82,17,2,2,1,7.7,3.9,3.8,8,0,Medium
+EMP_1645,Customer Support,Bachelors,Junior,Male,24,1.1,2.6,Tier-1 (Entry),5,8.3,0.86,60,0.81,31,0,6,2,8.1,3.7,3.1,8,0,Medium
+EMP_1370,Engineering,PhD,Mid-Level,Female,31,6.4,0.7,Tier-1 (Entry),5,6.0,0.76,54,0.92,18,0,4,5,7.9,3.3,2.0,3,0,Low
+EMP_1650,Engineering,Masters,Senior,Female,41,15.0,4.5,Tier-2 (Mid),3,14.6,0.72,39,0.85,9,0,4,4,7.4,1.7,2.5,2,0,Low
+EMP_1145,Engineering,Bachelors,Senior,Female,37,10.2,5.2,Tier-3 (Senior),3,3.7,0.82,115,0.85,20,1,7,2,8.1,3.7,3.2,4,0,Medium
+EMP_1172,Sales,Masters,Junior,Female,24,2.4,4.4,Tier-1 (Entry),12,-1.9,0.85,99,0.79,34,4,3,4,8.1,4.2,4.0,8,0,High
+EMP_1892,Customer Support,PhD,Mid-Level,Female,31,4.8,1.7,Tier-2 (Mid),5,8.8,0.73,82,0.8,26,2,4,1,8.0,3.1,3.9,12,0,Medium
+EMP_2672,Customer Support,Bachelors,Junior,Male,25,2.0,1.8,Tier-1 (Entry),3,0.7,0.87,98,0.79,33,0,7,1,9.0,4.5,3.9,6,1,High
+EMP_2746,Engineering,Bachelors,Mid-Level,Male,29,5.5,5.2,Tier-3 (Senior),3,1.3,0.85,90,0.91,30,1,5,2,8.3,3.6,4.2,9,0,High
+EMP_2012,Finance,Diploma,Lead,Female,49,18.4,5.5,Tier-4 (Lead/Exec),2,8.9,0.77,71,0.8,16,2,5,9,8.0,3.3,2.5,7,0,Low
+EMP_1942,Product,Bachelors,Junior,Female,23,2.8,5.9,Tier-1 (Entry),4,6.3,0.67,53,0.77,18,1,2,1,8.5,2.3,3.0,3,0,Low
+EMP_3105,Engineering,PhD,Junior,Female,24,2.0,2.5,Tier-1 (Entry),10,0.8,0.79,77,0.88,27,4,4,3,8.5,3.5,3.7,4,0,Medium
+EMP_1853,Customer Support,Bachelors,Senior,Female,41,11.9,5.6,Tier-3 (Senior),2,12.0,0.78,24,0.78,11,0,4,6,7.3,2.4,2.1,1,0,Low
+EMP_2868,Engineering,Bachelors,Mid-Level,Female,29,4.7,4.8,Tier-2 (Mid),10,-0.8,0.9,106,0.87,52,2,4,1,8.5,4.1,3.7,9,0,High
+EMP_2592,Engineering,Bachelors,Mid-Level,Male,28,4.7,1.3,Tier-2 (Mid),4,0.7,0.88,102,0.8,51,4,3,3,8.9,4.5,4.0,7,1,High
+EMP_2172,Product,Masters,Junior,Male,25,1.9,3.0,Tier-1 (Entry),2,-0.2,0.87,113,0.92,51,1,2,3,8.3,3.4,4.7,8,0,High
+EMP_2357,Sales,Bachelors,Mid-Level,Male,29,4.3,5.9,Tier-3 (Senior),1,15.8,0.55,20,0.73,2,0,2,8,7.1,2.0,1.7,1,0,Low
+EMP_1151,Engineering,Bachelors,Junior,Male,26,3.2,1.8,Tier-1 (Entry),7,1.6,0.92,89,0.88,39,3,3,1,9.0,4.2,4.0,14,0,High
+EMP_1774,Customer Support,Masters,Junior,Female,23,0.9,4.3,Tier-1 (Entry),8,8.1,0.76,53,0.7,12,1,3,4,8.6,2.9,2.8,1,0,Low
+EMP_1630,Marketing,Masters,Senior,Female,38,12.6,3.2,Tier-2 (Mid),5,-0.9,0.97,90,0.85,42,2,1,3,8.5,3.5,3.4,15,0,High
+EMP_2087,Engineering,Masters,Junior,Female,24,1.5,4.2,Tier-1 (Entry),5,1.3,0.93,85,0.88,31,0,4,0,8.8,3.4,3.7,8,0,Medium
+EMP_2903,Engineering,Bachelors,Mid-Level,Male,30,6.0,4.4,Tier-3 (Senior),2,8.6,0.77,57,0.89,23,1,3,10,7.5,2.5,3.0,7,0,Low
+EMP_2567,Engineering,Diploma,Mid-Level,Male,29,3.6,1.5,Tier-2 (Mid),8,-0.8,0.88,122,0.79,12,3,3,2,8.4,4.1,4.2,10,0,High
+EMP_1777,Marketing,Bachelors,Junior,Male,27,3.5,2.4,Tier-3 (Senior),8,-0.5,0.88,111,0.77,46,2,4,2,8.4,3.9,3.9,16,0,High
+EMP_1260,Product,Bachelors,Junior,Female,25,3.4,4.0,Tier-2 (Mid),7,5.6,0.78,57,0.87,21,2,4,5,7.8,2.9,2.3,4,0,Low
+EMP_2329,Sales,Bachelors,Junior,Male,22,1.4,4.0,Tier-1 (Entry),11,4.1,0.77,84,0.86,30,1,5,3,8.0,2.8,3.7,4,0,Medium
+EMP_1972,Marketing,Masters,Senior,Male,39,10.4,2.9,Tier-2 (Mid),3,8.2,0.71,46,0.79,37,0,4,4,6.9,2.6,2.0,1,0,Low
+EMP_1984,Marketing,Bachelors,Junior,Female,24,2.3,3.5,Tier-1 (Entry),5,-4.9,0.84,150,0.97,29,4,7,1,7.9,4.0,4.1,10,0,High
+EMP_3348,Product,Masters,Senior,Female,37,8.1,0.6,Tier-3 (Senior),5,2.2,0.82,86,0.79,27,2,1,1,8.9,3.7,4.5,12,0,High
+EMP_1682,Engineering,Bachelors,Lead,Male,50,16.8,0.7,Tier-4 (Lead/Exec),5,6.8,0.71,96,0.77,28,2,2,4,8.2,3.7,2.9,5,0,Medium
+EMP_2625,Marketing,Masters,Junior,Female,23,2.3,3.8,Tier-2 (Mid),5,7.8,0.82,80,0.85,2,0,5,5,7.3,3.9,2.6,2,0,Low
+EMP_3106,Customer Support,Masters,Junior,Female,24,1.2,5.4,Tier-2 (Mid),3,13.1,0.72,41,0.65,2,0,3,8,7.6,2.6,2.2,3,0,Low
+EMP_1000,Sales,Masters,Mid-Level,Female,30,5.2,1.8,Tier-2 (Mid),1,5.6,0.74,59,0.84,12,1,2,10,7.3,2.7,2.8,5,0,Low
+EMP_1235,Marketing,Masters,Junior,Female,25,2.3,2.9,Tier-1 (Entry),5,-2.5,0.98,94,0.85,33,2,2,1,7.8,3.5,4.0,10,0,High
+EMP_2553,Customer Support,Bachelors,Junior,Male,26,3.5,5.7,Tier-2 (Mid),1,4.7,0.78,76,0.84,36,1,2,5,8.2,2.9,4.5,3,0,Medium
+EMP_3272,Sales,Bachelors,Mid-Level,Male,29,5.0,0.6,Tier-2 (Mid),2,7.2,0.75,101,0.94,12,1,5,2,8.1,3.2,2.7,5,0,Medium
+EMP_2277,Finance,Bachelors,Mid-Level,Male,30,4.1,4.8,Tier-3 (Senior),2,1.3,0.9,101,0.79,39,3,2,2,8.0,3.3,3.5,8,0,Medium
+EMP_3069,Engineering,Masters,Junior,Female,24,1.4,3.8,Tier-1 (Entry),1,7.4,0.77,57,0.78,20,2,5,5,7.9,2.1,2.8,3,0,Low
+EMP_1978,Sales,Bachelors,Mid-Level,Female,33,6.5,3.8,Tier-2 (Mid),9,-2.7,1.0,137,0.89,52,1,5,0,9.6,5.0,5.0,18,1,High
+EMP_1833,Engineering,Bachelors,Mid-Level,Male,34,7.3,2.9,Tier-1 (Entry),1,8.8,0.78,81,0.75,34,0,4,6,7.8,3.3,3.4,5,0,Medium
+EMP_2203,Engineering,Masters,Mid-Level,Male,31,5.4,4.4,Tier-3 (Senior),3,4.0,0.77,56,0.84,25,1,5,3,8.4,3.8,3.1,5,0,Medium
+EMP_1582,Sales,Bachelors,Senior,Male,33,7.5,4.2,Tier-3 (Senior),8,6.8,0.71,86,0.84,6,1,0,1,8.1,3.1,2.4,5,0,Medium
+EMP_1100,Engineering,Masters,Mid-Level,Female,34,7.6,2.3,Tier-1 (Entry),6,7.5,0.72,78,0.78,12,1,1,3,8.2,2.8,2.7,6,0,Medium
+EMP_1207,Product,Bachelors,Mid-Level,Female,31,4.8,0.6,Tier-3 (Senior),8,0.1,0.87,119,0.93,40,2,3,2,8.6,4.1,4.0,11,0,High
+EMP_1389,Customer Support,Masters,Senior,Male,37,9.1,4.7,Tier-2 (Mid),4,4.9,0.89,64,0.71,39,0,4,1,7.6,3.8,2.9,9,0,Medium
+EMP_3445,Engineering,Diploma,Senior,Male,40,14.9,3.5,Tier-3 (Senior),4,3.4,0.73,88,0.9,32,1,8,2,8.4,3.2,3.3,6,0,Medium
+EMP_2609,Sales,Bachelors,Junior,Female,25,2.6,3.9,Tier-2 (Mid),1,14.3,0.67,39,0.69,10,0,6,2,6.7,1.8,1.8,1,0,Low
+EMP_2541,Engineering,Bachelors,Senior,Male,42,14.2,2.3,Tier-3 (Senior),4,4.9,0.85,110,0.77,29,1,5,3,8.7,4.1,3.7,6,0,Medium
+EMP_1064,Engineering,Bachelors,Senior,Male,38,7.6,4.5,Tier-3 (Senior),6,2.9,0.79,101,0.79,22,0,3,4,7.8,3.4,3.5,6,0,Medium
+EMP_3025,Engineering,Bachelors,Mid-Level,Male,29,4.3,4.6,Tier-1 (Entry),8,-5.0,0.91,146,0.87,63,1,3,1,8.5,4.9,4.2,11,1,High
+EMP_1236,Engineering,Diploma,Mid-Level,Female,30,6.5,4.2,Tier-2 (Mid),5,4.8,0.69,108,0.75,27,2,2,8,7.6,2.4,3.8,3,0,Medium
+EMP_2144,Engineering,Masters,Senior,Female,38,9.7,5.1,Tier-3 (Senior),4,4.2,0.7,68,0.76,20,2,4,2,7.6,3.0,3.5,4,0,Medium
+EMP_1009,Marketing,PhD,Mid-Level,Female,34,7.5,5.2,Tier-2 (Mid),3,3.9,0.86,71,0.74,30,2,7,7,8.8,4.0,3.5,10,0,Medium
+EMP_3350,Product,Diploma,Junior,Female,23,2.2,2.7,Tier-1 (Entry),9,4.6,0.78,62,0.78,24,1,6,4,7.8,3.0,3.2,4,0,Medium
+EMP_3423,Sales,PhD,Mid-Level,Female,31,5.4,4.5,Tier-3 (Senior),4,8.2,0.74,72,0.82,35,0,2,4,8.2,3.2,3.2,7,0,Medium
+EMP_1653,Marketing,Bachelors,Mid-Level,Female,35,7.6,1.4,Tier-2 (Mid),10,-4.3,0.84,111,0.84,31,2,5,3,8.9,4.4,3.5,15,1,High
+EMP_2418,Sales,Masters,Senior,Male,44,13.6,3.2,Tier-3 (Senior),4,0.6,0.76,72,0.91,38,2,4,2,9.1,3.8,4.3,4,0,Medium
+EMP_1657,Sales,Bachelors,Senior,Male,37,9.9,0.6,Tier-3 (Senior),5,9.1,0.66,43,0.77,7,1,9,5,8.6,2.8,2.3,2,0,Low
+EMP_3009,Sales,Diploma,Junior,Male,24,2.7,4.5,Tier-2 (Mid),4,8.2,0.69,68,0.76,13,0,4,6,8.2,3.0,2.7,2,0,Low
+EMP_2914,Sales,Bachelors,Junior,Male,26,3.3,3.4,Tier-1 (Entry),1,4.0,0.92,68,0.84,3,0,1,5,7.6,3.1,2.7,7,0,Medium
+EMP_2692,Sales,Bachelors,Mid-Level,Female,29,3.7,3.5,Tier-1 (Entry),7,-2.4,0.83,120,0.97,45,4,3,4,7.8,3.5,3.4,5,0,Medium
+EMP_2402,Engineering,PhD,Junior,Female,25,1.9,5.6,Tier-2 (Mid),1,8.5,0.77,39,0.85,27,0,2,7,8.0,2.1,2.3,5,0,Low
+EMP_2867,Engineering,Bachelors,Junior,Female,26,3.4,0.9,Tier-2 (Mid),1,9.8,0.66,44,0.77,18,0,5,4,7.6,2.8,2.1,0,0,Low
+EMP_2425,Finance,Bachelors,Junior,Female,22,1.1,2.4,Tier-1 (Entry),7,-5.0,0.99,91,0.88,39,1,4,1,8.9,5.0,4.2,16,1,High
+EMP_1026,Engineering,Bachelors,Junior,Female,24,0.7,4.5,Tier-1 (Entry),2,8.1,0.79,67,0.78,14,0,7,3,8.0,3.3,3.3,4,0,Medium
+EMP_1495,Sales,Masters,Junior,Male,23,1.7,3.9,Tier-1 (Entry),10,-4.0,0.89,113,0.77,50,3,1,2,9.0,4.9,4.3,12,0,High
+EMP_1516,Sales,Masters,Senior,Male,42,11.6,3.4,Tier-2 (Mid),4,-1.2,0.85,102,0.81,33,6,6,1,9.0,4.2,3.5,4,0,High
+EMP_3357,Engineering,Diploma,Lead,Female,50,18.7,5.1,Tier-3 (Senior),7,2.4,0.87,89,0.89,36,2,4,2,8.7,3.8,3.9,12,1,Medium
+EMP_1227,Sales,Bachelors,Senior,Male,41,14.7,1.3,Tier-3 (Senior),10,3.0,0.91,98,0.79,33,2,8,0,8.2,3.5,3.9,6,0,High
+EMP_3360,Engineering,Masters,Senior,Female,40,10.9,4.5,Tier-2 (Mid),11,-5.0,1.0,144,1.0,67,4,2,0,9.3,5.0,5.0,8,1,High
+EMP_1788,Sales,PhD,Lead,Male,48,19.3,5.1,Tier-4 (Lead/Exec),6,-1.0,0.89,86,0.78,27,2,3,3,8.9,3.5,4.2,10,0,High
+EMP_1286,Sales,Diploma,Lead,Male,53,21.8,1.1,Tier-4 (Lead/Exec),1,2.4,0.82,36,0.78,28,0,4,4,8.7,3.1,2.5,5,0,Medium
+EMP_3298,Engineering,Bachelors,Mid-Level,Male,33,6.7,5.2,Tier-1 (Entry),9,2.8,0.87,139,0.91,54,1,3,0,8.5,4.1,3.9,11,0,High
+EMP_2208,Engineering,Bachelors,Mid-Level,Male,31,5.5,5.8,Tier-2 (Mid),5,6.0,0.81,113,0.76,40,0,3,2,8.8,3.7,3.2,7,0,Medium
+EMP_3024,Sales,Masters,Mid-Level,Male,35,7.8,4.6,Tier-3 (Senior),5,4.2,0.67,68,0.66,13,1,5,4,8.5,2.5,2.5,2,0,Low
+EMP_1793,Product,Bachelors,Lead,Male,52,22.8,3.0,Tier-4 (Lead/Exec),2,6.4,0.78,119,0.8,31,3,0,3,7.8,3.7,3.4,5,0,Medium
+EMP_1296,Marketing,Bachelors,Mid-Level,Female,31,7.2,3.0,Tier-3 (Senior),1,14.7,0.72,40,0.68,2,0,6,5,7.5,2.9,1.6,0,0,Low
+EMP_2967,Sales,Bachelors,Mid-Level,Female,29,4.5,2.7,Tier-2 (Mid),1,6.7,0.72,63,0.64,28,1,4,1,8.6,3.2,3.0,3,0,Medium
+EMP_1365,Sales,Bachelors,Lead,Non-Binary,47,15.8,0.8,Tier-4 (Lead/Exec),4,5.8,0.66,72,0.8,18,3,2,6,8.1,2.8,3.0,2,0,Medium
+EMP_1464,Finance,Masters,Junior,Female,25,2.5,3.5,Tier-2 (Mid),3,7.0,0.78,79,0.78,29,2,3,1,8.2,3.2,3.2,7,0,Medium
+EMP_1056,Engineering,Bachelors,Mid-Level,Male,31,5.7,2.5,Tier-2 (Mid),3,-5.0,0.96,131,0.94,57,3,3,2,8.7,4.1,4.4,13,1,High
+EMP_1961,Product,Bachelors,Lead,Female,46,17.9,4.9,Tier-3 (Senior),1,11.7,0.74,49,0.64,30,0,0,3,7.6,3.0,2.5,5,0,Low
+EMP_3461,Customer Support,Bachelors,Mid-Level,Female,31,5.8,1.6,Tier-2 (Mid),8,-5.0,0.87,120,1.0,57,3,8,2,8.4,4.4,3.7,8,0,High
+EMP_3365,Engineering,Masters,Mid-Level,Male,34,7.7,4.5,Tier-2 (Mid),4,3.0,0.81,93,0.88,34,0,1,5,8.1,3.7,3.4,3,0,Medium
+EMP_2519,Finance,Bachelors,Junior,Female,25,2.1,1.2,Tier-1 (Entry),7,-2.8,0.89,114,0.87,38,3,5,1,8.7,4.5,4.3,11,1,High
+EMP_3273,Product,Masters,Junior,Male,24,3.0,5.9,Tier-1 (Entry),5,9.2,0.67,24,0.69,34,0,3,4,7.4,2.6,2.0,1,0,Low
+EMP_1785,Finance,Bachelors,Lead,Female,47,14.5,3.5,Tier-4 (Lead/Exec),3,10.5,0.64,20,0.7,22,1,3,5,7.6,2.2,2.2,0,0,Low
+EMP_1129,Sales,Bachelors,Senior,Female,45,14.8,5.3,Tier-3 (Senior),7,5.7,0.74,83,0.77,22,1,3,4,7.8,3.6,3.2,3,0,Medium
+EMP_3078,Finance,Diploma,Mid-Level,Male,32,6.7,2.4,Tier-1 (Entry),5,14.6,0.7,60,0.73,10,1,10,2,7.5,3.3,2.7,5,0,Low
+EMP_2801,Marketing,Diploma,Junior,Male,24,1.1,4.5,Tier-1 (Entry),6,6.3,0.69,53,0.75,12,0,1,5,8.0,2.4,2.5,5,0,Low
+EMP_3440,Product,Bachelors,Mid-Level,Female,29,5.2,1.0,Tier-2 (Mid),5,-1.5,0.84,88,0.75,31,1,3,3,8.5,3.7,3.2,2,0,Medium
+EMP_1070,Marketing,Bachelors,Mid-Level,Male,33,7.9,5.6,Tier-1 (Entry),7,8.2,0.78,37,0.66,6,1,4,7,7.9,3.1,2.5,4,0,Low
+EMP_1338,Sales,Masters,Lead,Male,56,22.5,4.8,Tier-4 (Lead/Exec),3,3.9,0.86,72,0.77,15,1,3,4,8.2,3.2,3.3,2,0,Medium
+EMP_3493,Sales,Masters,Mid-Level,Female,30,4.2,3.2,Tier-3 (Senior),4,7.7,0.75,61,0.77,19,1,5,2,8.2,3.3,3.1,6,0,Medium
+EMP_2928,Product,Bachelors,Mid-Level,Male,32,6.4,2.5,Tier-2 (Mid),1,5.5,0.76,117,0.76,53,2,3,2,7.6,3.8,3.1,5,0,Medium
+EMP_3164,Sales,Masters,Senior,Male,38,10.5,3.8,Tier-2 (Mid),10,2.8,1.0,102,0.91,56,1,2,2,9.7,3.9,4.1,14,1,High
+EMP_3436,Sales,PhD,Junior,Male,22,0.5,4.4,Tier-1 (Entry),3,8.7,0.77,98,0.76,20,1,3,3,7.9,3.2,3.4,3,0,Medium
+EMP_1097,Sales,Bachelors,Junior,Male,22,0.5,1.1,Tier-1 (Entry),6,2.3,0.87,100,0.81,32,3,7,5,8.0,2.9,4.4,6,0,Medium
+EMP_1002,Marketing,Bachelors,Senior,Male,36,7.7,5.6,Tier-3 (Senior),4,-4.4,0.94,114,0.89,45,4,3,1,8.7,4.2,4.1,11,0,High
+EMP_1691,Sales,PhD,Junior,Male,25,3.4,4.2,Tier-2 (Mid),6,-2.5,0.88,113,1.0,42,3,5,1,8.6,3.3,3.1,5,0,Medium
+EMP_2597,Engineering,Bachelors,Junior,Male,24,1.6,3.8,Tier-1 (Entry),4,13.5,0.63,31,0.7,2,0,2,6,7.4,3.2,1.9,1,0,Low
+EMP_2558,Customer Support,PhD,Senior,Male,34,8.8,1.1,Tier-2 (Mid),4,5.4,0.84,96,0.87,12,4,5,0,7.6,3.7,3.6,6,0,Medium
+EMP_1930,Engineering,Bachelors,Junior,Male,22,1.4,5.7,Tier-2 (Mid),4,-3.3,0.84,130,1.0,59,1,2,1,8.4,3.9,3.9,6,0,High
+EMP_1535,Finance,Bachelors,Junior,Male,24,2.9,5.7,Tier-1 (Entry),2,9.0,0.74,23,0.82,23,2,3,2,7.5,1.8,2.1,2,0,Low
+EMP_2797,Engineering,Bachelors,Junior,Female,24,3.0,3.7,Tier-2 (Mid),7,9.8,0.66,25,0.81,2,0,6,4,7.3,1.9,1.7,0,0,Low
+EMP_3373,Sales,Bachelors,Mid-Level,Male,29,4.7,2.9,Tier-2 (Mid),6,1.0,0.87,96,0.8,22,2,1,2,8.0,3.1,3.1,7,0,Medium
+EMP_2641,Customer Support,Bachelors,Senior,Male,40,11.5,4.4,Tier-3 (Senior),3,8.1,0.72,48,0.71,14,0,2,4,7.5,2.7,2.7,3,0,Low
+EMP_3275,Product,Masters,Senior,Male,37,8.1,3.4,Tier-2 (Mid),2,7.0,0.66,49,0.84,2,0,2,5,8.0,3.0,3.2,4,0,Low
+EMP_2630,Marketing,Bachelors,Mid-Level,Male,32,6.6,1.8,Tier-1 (Entry),10,-4.0,0.83,125,0.77,35,1,4,0,8.8,4.2,5.0,16,1,High
+EMP_1342,Engineering,PhD,Junior,Male,23,0.9,5.8,Tier-2 (Mid),7,-5.0,0.87,102,0.79,36,1,7,3,9.2,4.4,4.8,6,1,High
+EMP_1551,Customer Support,Bachelors,Mid-Level,Male,31,4.3,5.0,Tier-2 (Mid),8,2.9,0.75,83,0.91,34,1,5,3,9.0,4.1,3.1,5,0,Medium
+EMP_3358,Sales,PhD,Junior,Male,23,2.2,5.8,Tier-1 (Entry),2,5.4,0.71,83,0.79,10,0,1,3,8.5,3.5,2.5,3,0,Medium
+EMP_2851,Customer Support,Bachelors,Lead,Male,42,12.8,1.0,Tier-4 (Lead/Exec),8,-2.9,0.87,103,0.91,45,2,1,2,8.7,4.6,4.0,17,1,High
+EMP_2163,Marketing,Bachelors,Mid-Level,Male,32,5.5,3.4,Tier-2 (Mid),2,11.6,0.63,69,0.73,23,0,4,7,7.7,2.7,2.4,2,0,Low
+EMP_3128,Customer Support,Masters,Junior,Male,24,3.1,4.3,Tier-1 (Entry),6,1.3,0.74,48,0.82,30,0,6,8,8.2,3.3,3.3,2,0,Medium
+EMP_1904,Sales,Masters,Junior,Male,25,2.5,0.8,Tier-1 (Entry),4,11.0,0.65,60,0.68,29,3,3,9,8.0,3.3,3.0,3,0,Low
+EMP_2909,Engineering,Bachelors,Mid-Level,Male,32,6.8,2.4,Tier-2 (Mid),2,9.0,0.76,73,0.8,24,1,5,3,8.2,2.9,3.7,6,0,Medium
+EMP_2133,Engineering,Bachelors,Junior,Male,24,0.5,4.4,Tier-1 (Entry),11,-0.9,0.92,120,0.83,44,6,4,2,8.8,3.9,4.7,17,1,High
+EMP_3131,Engineering,Bachelors,Mid-Level,Female,29,4.3,1.1,Tier-2 (Mid),6,8.1,0.75,36,0.76,16,0,2,4,7.6,2.8,2.7,2,0,Low
+EMP_2569,Sales,Masters,Mid-Level,Male,30,5.6,1.2,Tier-1 (Entry),9,-4.0,0.98,134,0.89,56,5,3,1,9.2,4.5,4.8,19,1,High
+EMP_1933,Sales,Bachelors,Lead,Female,48,17.2,4.7,Tier-3 (Senior),3,-4.4,0.86,86,0.8,17,0,6,3,8.3,3.6,2.9,8,0,Medium
+EMP_2984,Engineering,Bachelors,Senior,Female,37,10.0,1.8,Tier-2 (Mid),6,-3.6,0.78,74,0.8,24,2,9,3,8.7,2.7,3.3,6,0,Medium
+EMP_2201,Engineering,Masters,Mid-Level,Female,29,5.7,5.2,Tier-1 (Entry),6,6.7,0.66,92,0.75,38,1,1,7,7.7,2.7,2.5,2,0,Low
+EMP_3359,Engineering,PhD,Senior,Male,40,10.3,4.4,Tier-4 (Lead/Exec),4,1.9,0.83,86,0.8,26,1,3,2,7.4,3.4,3.0,6,0,Medium
+EMP_1330,Sales,Bachelors,Junior,Male,25,2.5,1.8,Tier-2 (Mid),5,-0.5,0.96,93,0.84,43,3,3,2,8.8,4.0,3.7,16,1,High
+EMP_1782,Engineering,Masters,Mid-Level,Female,31,4.2,1.0,Tier-1 (Entry),3,2.9,0.83,78,0.91,33,1,1,5,8.2,4.1,4.0,10,0,Medium
+EMP_1193,Product,Bachelors,Lead,Female,52,21.9,2.5,Tier-4 (Lead/Exec),3,-5.0,0.82,108,0.97,30,2,6,2,8.4,4.0,4.0,10,0,High
+EMP_3209,Finance,Masters,Senior,Female,41,13.0,3.5,Tier-3 (Senior),7,-2.9,0.82,96,0.82,48,1,6,1,9.4,4.6,4.1,13,0,High
+EMP_2140,Customer Support,Bachelors,Mid-Level,Female,32,7.7,5.2,Tier-2 (Mid),3,6.5,0.7,48,0.79,16,0,3,9,7.5,2.6,1.6,0,0,Low
+EMP_2389,Sales,Bachelors,Mid-Level,Male,32,7.4,1.0,Tier-2 (Mid),5,-5.0,0.92,150,0.9,40,3,5,0,9.5,4.6,4.4,14,1,High
+EMP_2898,Sales,Bachelors,Junior,Male,23,1.4,2.4,Tier-2 (Mid),6,11.2,0.67,28,0.8,2,1,4,4,8.2,2.9,3.0,1,0,Low
+EMP_2509,Marketing,Bachelors,Mid-Level,Female,32,5.1,1.3,Tier-2 (Mid),10,2.9,0.86,90,0.96,25,3,3,0,8.8,4.6,4.2,3,0,Medium
+EMP_1540,Finance,Bachelors,Junior,Non-Binary,23,2.2,3.5,Tier-1 (Entry),4,12.3,0.55,38,0.68,2,0,8,3,7.5,2.5,1.6,2,0,Low
+EMP_2488,Sales,Bachelors,Mid-Level,Female,33,7.9,2.9,Tier-2 (Mid),3,0.4,0.72,64,0.85,38,1,2,6,7.6,2.5,3.5,10,0,Medium
+EMP_1487,Engineering,Bachelors,Mid-Level,Male,30,3.9,5.2,Tier-2 (Mid),3,6.8,0.77,66,0.77,24,2,10,7,7.2,3.5,3.7,6,0,Medium
+EMP_2119,Engineering,Bachelors,Mid-Level,Male,35,8.0,1.7,Tier-2 (Mid),7,1.8,0.83,104,0.94,43,3,5,2,8.7,3.4,3.5,8,0,Medium
+EMP_3020,Finance,Masters,Mid-Level,Male,29,5.1,5.4,Tier-1 (Entry),2,6.1,0.76,44,0.79,40,0,5,8,7.9,2.4,3.1,4,0,Low
+EMP_1010,Engineering,Bachelors,Junior,Female,24,0.5,1.3,Tier-2 (Mid),4,8.1,0.69,82,0.79,13,2,4,6,7.2,3.7,3.0,2,0,Medium
+EMP_2869,Marketing,Bachelors,Lead,Female,52,20.2,2.2,Tier-4 (Lead/Exec),2,6.2,0.81,57,0.82,29,1,3,4,8.3,3.6,3.9,4,0,Medium
+EMP_1886,Product,Bachelors,Mid-Level,Non-Binary,33,5.9,3.4,Tier-2 (Mid),1,8.3,0.63,32,0.72,6,1,1,3,7.7,1.9,2.5,3,0,Low
+EMP_3449,Engineering,Masters,Junior,Male,25,2.6,3.0,Tier-1 (Entry),3,-2.9,0.89,108,0.82,44,5,6,3,9.0,3.7,5.0,8,0,High
+EMP_2252,Engineering,Bachelors,Junior,Male,24,1.5,2.1,Tier-1 (Entry),1,2.6,0.83,69,0.82,23,4,1,2,8.4,2.6,3.3,1,0,Medium
+EMP_1025,Customer Support,Bachelors,Mid-Level,Female,29,4.7,3.6,Tier-2 (Mid),5,7.1,0.81,71,0.92,14,1,4,3,8.6,3.6,3.9,7,0,Medium
+EMP_1226,Finance,Bachelors,Mid-Level,Male,29,4.3,1.4,Tier-2 (Mid),5,0.8,0.95,105,0.85,29,2,1,6,8.3,3.3,4.4,4,1,Medium
+EMP_1180,Engineering,Bachelors,Mid-Level,Female,30,4.0,3.3,Tier-2 (Mid),2,8.8,0.68,85,0.69,32,0,4,3,7.9,2.9,2.1,4,0,Low
+EMP_1444,Customer Support,Masters,Junior,Male,26,3.2,2.7,Tier-1 (Entry),4,10.8,0.63,51,0.67,9,1,7,4,7.9,2.6,1.8,1,0,Low
+EMP_2650,Engineering,Bachelors,Junior,Female,23,2.2,3.4,Tier-2 (Mid),7,8.2,0.79,91,0.84,21,1,8,3,8.3,3.9,3.2,3,0,Medium
+EMP_3313,Marketing,Bachelors,Mid-Level,Female,32,5.8,2.1,Tier-1 (Entry),3,5.2,0.76,80,0.76,28,3,5,2,8.1,3.1,3.1,11,0,Medium
+EMP_2508,Product,Masters,Senior,Male,38,11.2,1.2,Tier-3 (Senior),1,6.3,0.78,66,0.79,45,1,1,1,9.3,3.2,3.6,3,0,Medium
+EMP_2246,Engineering,Masters,Junior,Male,24,1.0,0.5,Tier-1 (Entry),6,4.7,0.87,74,0.84,48,1,1,1,8.0,3.2,3.3,6,0,Medium
+EMP_3252,Product,Masters,Junior,Male,25,1.8,0.8,Tier-1 (Entry),7,2.8,0.88,80,0.82,32,0,3,4,8.1,4.2,4.5,10,0,High
+EMP_3116,Sales,Masters,Senior,Female,38,11.7,3.8,Tier-2 (Mid),1,14.5,0.59,38,0.7,2,0,6,8,7.8,1.9,2.0,2,0,Low
+EMP_1402,Sales,Bachelors,Lead,Male,50,21.3,5.5,Tier-2 (Mid),10,2.5,0.83,102,0.81,40,3,2,2,7.9,3.5,3.8,6,1,Medium
+EMP_2842,Sales,Masters,Junior,Female,26,2.9,4.9,Tier-1 (Entry),4,5.8,0.76,87,0.85,20,1,3,2,8.2,2.8,3.5,7,0,Medium
+EMP_1290,Engineering,Masters,Junior,Female,23,0.7,5.4,Tier-1 (Entry),8,-2.4,0.84,102,0.99,58,0,5,0,8.8,4.5,4.5,6,1,High
+EMP_3006,Sales,Masters,Mid-Level,Male,35,8.0,4.9,Tier-2 (Mid),3,5.6,0.85,67,0.79,6,3,7,5,8.3,3.4,2.6,6,0,Medium
+EMP_2077,Marketing,Bachelors,Mid-Level,Male,32,5.4,3.0,Tier-1 (Entry),6,-0.9,0.91,112,0.75,28,2,7,2,8.6,3.0,4.0,12,0,High
+EMP_1527,Engineering,Masters,Junior,Male,24,1.3,4.7,Tier-1 (Entry),3,5.4,0.89,81,0.88,34,2,5,3,7.7,4.3,3.6,12,0,Medium
+EMP_1381,Marketing,Masters,Mid-Level,Male,31,7.0,4.9,Tier-2 (Mid),8,3.2,0.97,121,1.0,46,0,4,3,8.3,5.0,4.4,7,0,High
+EMP_3483,Engineering,Masters,Mid-Level,Female,33,5.4,2.3,Tier-2 (Mid),11,-5.0,1.0,151,0.99,64,2,5,1,9.0,4.5,5.0,14,1,High
+EMP_1911,Engineering,Bachelors,Lead,Non-Binary,43,14.1,5.8,Tier-4 (Lead/Exec),4,11.9,0.71,41,0.72,5,0,3,8,8.2,2.3,1.7,3,0,Low
+EMP_2986,Marketing,Bachelors,Mid-Level,Male,30,5.9,5.8,Tier-2 (Mid),4,11.1,0.63,55,0.77,2,1,7,5,8.0,2.1,2.2,1,0,Low
+EMP_3315,Engineering,Diploma,Lead,Female,46,13.4,2.2,Tier-4 (Lead/Exec),4,1.7,0.82,85,0.79,17,2,8,3,8.1,4.0,3.1,8,0,Medium
+EMP_3089,Sales,Masters,Junior,Female,25,2.2,4.6,Tier-1 (Entry),4,6.0,0.73,88,0.82,28,0,7,6,8.3,2.3,3.2,5,0,Medium
+EMP_1751,Finance,Bachelors,Senior,Non-Binary,41,11.5,0.9,Tier-3 (Senior),4,4.4,0.72,103,0.62,26,1,2,4,7.8,3.2,2.9,7,0,Medium
+EMP_3450,Engineering,Bachelors,Mid-Level,Male,33,7.0,3.4,Tier-2 (Mid),10,0.9,0.84,79,0.82,40,2,5,0,8.4,3.8,3.9,6,0,Medium
+EMP_1395,Finance,Masters,Mid-Level,Female,32,8.0,4.2,Tier-2 (Mid),2,9.9,0.69,54,0.74,25,3,5,4,8.4,3.3,3.3,2,0,Low
+EMP_2859,Marketing,Bachelors,Mid-Level,Female,33,6.5,1.0,Tier-2 (Mid),3,-3.0,0.9,122,0.94,67,4,5,0,8.7,4.7,4.6,15,1,High
+EMP_1614,Customer Support,Bachelors,Mid-Level,Male,34,7.5,1.9,Tier-3 (Senior),11,2.1,0.74,74,0.97,44,2,2,3,7.9,3.2,4.1,6,0,Medium
+EMP_1565,Product,Bachelors,Junior,Male,23,1.5,4.6,Tier-2 (Mid),6,4.6,0.76,50,0.75,26,1,4,1,8.2,3.3,2.5,6,0,Medium
+EMP_2364,Marketing,Bachelors,Mid-Level,Male,33,5.4,4.6,Tier-2 (Mid),3,1.9,0.77,65,0.95,33,2,6,1,8.9,4.1,3.5,10,0,Medium
+EMP_2674,Customer Support,Masters,Junior,Male,24,0.8,1.5,Tier-1 (Entry),3,5.9,0.85,66,0.81,5,0,5,2,8.6,2.9,3.5,6,0,Medium
+EMP_2669,Customer Support,Bachelors,Junior,Male,24,2.2,4.9,Tier-1 (Entry),1,7.6,0.75,55,0.81,20,2,0,5,7.9,2.2,2.5,3,0,Low
+EMP_2084,Finance,Bachelors,Junior,Male,23,1.5,4.7,Tier-1 (Entry),3,1.1,0.76,79,0.71,28,1,5,3,8.3,2.7,3.8,7,0,Medium
+EMP_2642,Sales,Bachelors,Mid-Level,Female,33,7.7,4.3,Tier-1 (Entry),4,5.0,0.74,60,0.7,11,0,4,1,7.4,3.4,2.3,7,0,Medium
+EMP_3281,Sales,Bachelors,Junior,Male,25,2.7,3.9,Tier-1 (Entry),7,-1.0,0.81,77,0.77,39,1,3,1,8.5,4.2,3.3,11,0,High
+EMP_2291,Engineering,Bachelors,Mid-Level,Male,33,7.5,4.8,Tier-1 (Entry),6,9.8,0.78,71,0.81,2,2,4,4,7.8,2.0,2.1,2,0,Low
+EMP_1088,Customer Support,Bachelors,Mid-Level,Female,31,7.2,2.5,Tier-2 (Mid),5,-5.0,0.95,125,1.0,64,1,4,0,9.7,5.0,4.6,8,1,High
+EMP_3233,Customer Support,PhD,Mid-Level,Female,31,3.9,2.9,Tier-1 (Entry),2,4.5,0.81,87,0.83,24,1,1,4,7.6,2.9,3.0,5,0,Medium
+EMP_2900,Product,Bachelors,Junior,Female,22,1.4,4.5,Tier-1 (Entry),6,-0.2,0.8,124,0.82,42,3,5,2,8.7,4.3,3.1,8,0,High
+EMP_1851,Marketing,Bachelors,Lead,Male,51,19.9,5.4,Tier-4 (Lead/Exec),3,8.0,0.83,67,0.73,16,3,1,3,8.3,3.1,3.0,7,0,Medium
+EMP_1686,Product,Bachelors,Mid-Level,Male,30,4.1,0.9,Tier-3 (Senior),6,7.1,0.72,87,0.82,17,0,4,3,7.9,3.7,3.8,2,0,Medium
+EMP_1099,Engineering,Bachelors,Junior,Male,22,1.6,4.8,Tier-2 (Mid),6,3.0,0.85,122,0.8,33,3,6,2,8.8,3.8,3.6,4,0,Medium
+EMP_2978,Customer Support,Bachelors,Senior,Male,36,10.5,2.1,Tier-3 (Senior),4,2.5,0.82,91,0.87,31,2,6,4,7.9,3.0,3.3,5,0,Medium
+EMP_2160,Customer Support,Bachelors,Junior,Male,23,2.6,1.6,Tier-1 (Entry),1,10.9,0.6,65,0.75,7,1,2,3,8.7,2.7,3.1,3,0,Low
+EMP_3291,Engineering,Diploma,Junior,Male,25,3.1,3.3,Tier-1 (Entry),10,-2.1,0.95,107,0.87,35,4,2,1,9.0,3.8,4.5,7,0,High
+EMP_1534,Marketing,Bachelors,Junior,Female,26,3.3,5.0,Tier-1 (Entry),4,9.9,0.69,84,0.74,34,0,2,2,8.2,3.4,2.6,2,0,Medium
+EMP_1096,Sales,Bachelors,Senior,Male,38,12.1,1.5,Tier-3 (Senior),5,4.8,0.83,74,0.81,35,2,5,4,8.6,3.5,3.0,8,0,Medium
+EMP_1222,Engineering,Masters,Junior,Male,22,0.5,1.5,Tier-1 (Entry),6,3.5,0.72,90,0.79,19,2,5,4,8.3,3.5,2.7,3,0,Medium
+EMP_2050,Customer Support,Masters,Mid-Level,Female,28,4.7,5.4,Tier-1 (Entry),1,17.0,0.62,36,0.7,12,0,3,8,7.6,2.5,1.4,1,0,Low
+EMP_3490,Engineering,Diploma,Junior,Male,24,2.8,3.7,Tier-1 (Entry),9,-5.0,1.0,122,0.98,64,4,4,0,8.8,4.6,4.9,16,1,High
+EMP_3369,Marketing,Masters,Lead,Male,55,23.0,3.9,Tier-4 (Lead/Exec),10,4.3,0.7,57,0.84,21,0,4,3,7.9,3.1,2.7,6,0,Low
+EMP_2713,Sales,Bachelors,Senior,Male,43,13.6,1.9,Tier-4 (Lead/Exec),6,8.0,0.71,41,0.76,14,0,2,4,8.1,2.8,3.1,1,0,Low
+EMP_2853,Customer Support,Diploma,Senior,Male,42,14.3,2.7,Tier-3 (Senior),5,5.0,0.83,72,0.84,28,2,7,4,7.0,3.0,3.3,4,0,Medium
+EMP_2299,Marketing,Bachelors,Junior,Male,24,0.9,5.9,Tier-1 (Entry),5,3.2,0.72,88,0.93,49,2,6,1,8.6,4.0,3.5,5,0,Medium
+EMP_2445,Engineering,Bachelors,Mid-Level,Female,34,7.8,5.9,Tier-3 (Senior),5,-1.3,0.84,111,0.8,33,3,3,1,8.3,4.3,3.5,8,0,High
+EMP_1927,Sales,Masters,Mid-Level,Non-Binary,32,7.5,2.6,Tier-2 (Mid),7,-1.8,0.89,135,0.84,57,3,3,3,8.7,3.6,3.8,6,1,High
+EMP_1110,Engineering,Masters,Lead,Male,52,20.5,0.7,Tier-3 (Senior),6,8.7,0.76,67,0.72,2,2,3,6,8.1,3.0,2.5,6,0,Low
+EMP_1109,Engineering,Bachelors,Lead,Male,45,14.8,2.9,Tier-4 (Lead/Exec),2,4.4,0.7,65,0.83,31,1,5,1,8.4,3.2,3.3,4,0,Medium
+EMP_1120,Customer Support,Masters,Junior,Female,26,3.1,0.7,Tier-3 (Senior),4,5.1,0.92,124,0.81,44,4,3,1,8.0,3.6,4.5,8,0,High
+EMP_2497,Sales,Bachelors,Junior,Non-Binary,24,2.7,1.9,Tier-1 (Entry),4,0.9,0.94,83,0.86,20,0,5,1,7.9,3.6,3.7,3,0,Medium
+EMP_1391,Sales,Masters,Mid-Level,Male,34,6.6,4.3,Tier-2 (Mid),8,-3.4,0.9,107,0.84,41,3,2,1,8.2,4.0,3.9,7,0,High
+EMP_2769,Sales,Diploma,Junior,Male,26,3.3,4.7,Tier-1 (Entry),4,5.1,0.62,47,0.68,21,3,5,3,8.1,2.9,2.3,2,0,Low
+EMP_1273,Finance,Bachelors,Senior,Male,39,10.7,1.5,Tier-2 (Mid),4,2.0,0.85,105,0.83,35,4,2,3,8.3,4.4,3.5,13,0,Medium
+EMP_3213,Finance,Masters,Mid-Level,Male,33,7.2,0.5,Tier-2 (Mid),5,-4.9,0.89,105,0.93,29,3,5,1,9.2,4.5,4.4,11,0,High
+EMP_1361,Product,Bachelors,Junior,Male,25,2.4,1.4,Tier-1 (Entry),1,16.9,0.74,39,0.69,14,0,2,6,7.5,2.2,1.8,2,0,Low
+EMP_1973,Engineering,Masters,Senior,Male,41,11.3,2.9,Tier-3 (Senior),6,3.9,0.85,105,0.84,13,4,4,4,8.0,4.0,3.4,6,0,Medium
+EMP_2633,Customer Support,Masters,Mid-Level,Male,29,5.4,3.9,Tier-2 (Mid),5,0.1,0.81,107,0.88,35,2,6,3,8.4,3.5,3.8,7,0,Medium
+EMP_2383,Engineering,Bachelors,Junior,Male,23,1.0,2.3,Tier-2 (Mid),6,2.3,0.85,78,0.87,27,1,2,1,8.3,3.2,3.1,4,0,Medium
+EMP_2493,Engineering,Bachelors,Junior,Male,22,1.1,3.4,Tier-1 (Entry),9,-1.8,0.87,94,0.89,65,3,1,5,8.0,4.0,3.9,15,1,High
+EMP_1683,Product,Bachelors,Junior,Non-Binary,22,1.0,1.6,Tier-1 (Entry),5,6.0,0.87,95,0.77,44,2,3,4,8.4,3.8,3.2,5,0,Medium
+EMP_2792,Sales,Bachelors,Mid-Level,Female,34,7.3,4.9,Tier-2 (Mid),8,7.7,0.85,48,0.88,38,0,3,3,7.9,3.0,2.8,2,0,Medium
+EMP_1486,Engineering,Bachelors,Junior,Female,26,3.2,3.0,Tier-1 (Entry),6,-1.3,0.9,112,0.95,19,0,4,1,8.2,4.5,4.4,12,1,High
+EMP_1714,Engineering,Bachelors,Mid-Level,Male,31,6.5,4.3,Tier-2 (Mid),3,7.4,0.77,47,0.74,7,2,5,4,8.0,3.3,2.8,4,0,Medium
+EMP_3429,Customer Support,PhD,Mid-Level,Female,31,4.5,5.7,Tier-2 (Mid),7,6.9,0.79,55,0.93,41,0,3,8,8.0,3.8,3.5,8,0,Medium
+EMP_1929,Engineering,Bachelors,Senior,Male,43,14.9,1.2,Tier-3 (Senior),1,15.0,0.6,43,0.72,14,1,3,7,7.2,2.7,2.3,0,0,Low
+EMP_2610,Customer Support,Bachelors,Senior,Female,39,10.9,3.3,Tier-3 (Senior),7,-0.5,0.92,127,0.98,41,0,3,3,9.0,4.2,4.7,13,1,High
+EMP_1037,Engineering,Bachelors,Lead,Male,44,12.4,5.2,Tier-4 (Lead/Exec),9,5.2,0.83,79,0.75,40,2,9,3,7.9,3.2,2.9,5,0,Medium
+EMP_2750,Sales,Bachelors,Junior,Male,23,0.6,4.9,Tier-1 (Entry),3,10.5,0.71,73,0.78,21,1,2,5,7.9,2.7,2.7,3,0,Low
+EMP_1014,Engineering,Masters,Junior,Female,23,1.2,4.2,Tier-2 (Mid),4,7.7,0.7,26,0.68,26,1,2,3,7.5,3.0,2.2,0,0,Low
+EMP_2404,Product,Masters,Junior,Female,24,1.3,0.6,Tier-1 (Entry),1,1.9,0.82,50,0.92,21,1,5,6,7.9,3.8,2.9,3,0,Medium
+EMP_2873,Customer Support,Bachelors,Junior,Female,24,1.8,4.5,Tier-2 (Mid),3,2.2,0.85,88,0.8,27,2,2,5,7.7,2.8,3.4,6,0,Medium
+EMP_2038,Engineering,Masters,Junior,Male,24,2.2,2.1,Tier-1 (Entry),5,5.9,0.8,88,0.85,41,5,3,1,8.4,3.3,3.6,2,0,Medium
+EMP_1860,Marketing,Masters,Mid-Level,Female,34,7.1,0.6,Tier-2 (Mid),7,1.9,0.93,107,0.91,33,6,3,5,8.6,3.2,4.4,4,0,Medium
+EMP_2992,Product,Bachelors,Junior,Male,25,1.9,5.0,Tier-1 (Entry),7,-3.0,0.95,95,0.8,38,1,7,1,8.6,3.7,3.6,6,0,Medium
+EMP_1135,Engineering,Masters,Mid-Level,Male,29,4.2,3.0,Tier-2 (Mid),2,7.5,0.73,62,0.86,12,0,3,0,8.8,2.9,3.1,6,0,Medium
+EMP_2790,Engineering,Bachelors,Senior,Male,38,8.9,4.6,Tier-3 (Senior),12,6.2,0.81,84,0.67,41,1,4,2,8.1,3.1,3.3,7,0,Medium
+EMP_3040,Customer Support,Bachelors,Senior,Male,43,13.7,5.6,Tier-3 (Senior),3,8.7,0.75,66,0.81,21,1,5,3,7.8,3.0,2.1,4,0,Low
+EMP_1186,Customer Support,Bachelors,Mid-Level,Female,32,4.9,1.4,Tier-1 (Entry),7,-3.2,0.88,107,0.91,47,3,2,1,9.0,4.4,4.2,12,0,High
+EMP_2621,Engineering,Bachelors,Mid-Level,Male,33,6.6,0.7,Tier-1 (Entry),5,8.1,0.7,63,0.72,30,1,6,5,8.0,2.9,2.9,4,0,Low
+EMP_2298,Product,Bachelors,Senior,Male,41,11.6,5.3,Tier-3 (Senior),10,2.5,0.86,99,0.87,43,1,6,1,8.5,3.5,4.2,15,0,High
+EMP_2269,Engineering,Bachelors,Mid-Level,Male,29,4.7,5.1,Tier-1 (Entry),6,-1.5,0.83,82,0.81,10,2,5,4,9.0,3.3,3.5,5,0,Medium
+EMP_2162,Engineering,Bachelors,Junior,Male,25,2.1,2.7,Tier-1 (Entry),4,2.9,0.82,71,0.8,21,0,2,2,8.4,2.8,3.8,6,0,Medium
+EMP_2752,Engineering,Bachelors,Junior,Male,24,2.8,2.3,Tier-2 (Mid),2,11.1,0.62,20,0.76,2,1,3,4,7.4,1.1,2.1,2,0,Low
+EMP_1752,Product,Masters,Junior,Male,24,1.4,4.2,Tier-1 (Entry),5,5.9,0.69,43,0.7,16,0,6,3,8.1,4.0,2.9,1,0,Medium
+EMP_2848,Customer Support,Masters,Mid-Level,Female,33,6.9,4.2,Tier-2 (Mid),4,7.1,0.87,76,0.79,5,3,2,3,8.0,2.1,2.5,1,0,Low
+EMP_3056,Sales,Masters,Senior,Male,40,10.8,4.3,Tier-2 (Mid),5,-5.0,0.79,97,0.88,32,4,2,1,8.4,3.8,3.7,9,1,High
+EMP_1855,Engineering,Bachelors,Senior,Male,42,13.3,4.0,Tier-2 (Mid),7,6.0,0.65,77,0.79,24,0,6,5,8.6,2.9,2.6,1,0,Low
+EMP_1709,Marketing,Masters,Lead,Male,55,23.9,4.8,Tier-4 (Lead/Exec),7,2.2,0.84,68,0.85,34,3,2,2,8.4,2.8,2.8,7,0,Medium
+EMP_1143,Engineering,Masters,Senior,Male,40,13.8,1.1,Tier-2 (Mid),5,6.2,0.84,84,0.8,51,1,5,3,8.5,3.8,3.5,5,0,Medium
+EMP_2221,Engineering,Masters,Senior,Female,41,12.7,4.9,Tier-3 (Senior),6,-0.9,0.85,85,0.68,41,1,2,2,8.7,3.6,3.5,7,0,Medium
+EMP_1733,Sales,Bachelors,Mid-Level,Female,31,6.6,2.3,Tier-2 (Mid),7,-3.7,0.85,151,0.95,33,1,2,1,8.2,3.7,4.4,4,1,High
+EMP_2871,Engineering,Bachelors,Junior,Male,25,1.6,4.6,Tier-1 (Entry),11,-5.0,0.95,129,0.9,26,2,4,2,8.0,4.9,4.2,15,1,High
+EMP_3134,Marketing,Bachelors,Mid-Level,Male,31,5.4,2.7,Tier-3 (Senior),8,4.2,0.89,98,0.87,38,4,4,4,8.7,4.4,3.8,5,0,High
+EMP_2876,Product,Bachelors,Junior,Female,24,3.2,4.8,Tier-1 (Entry),9,-2.4,0.88,86,0.94,31,2,3,3,9.5,3.6,3.6,20,0,High
+EMP_1363,Sales,Bachelors,Mid-Level,Female,34,6.4,1.3,Tier-2 (Mid),3,6.8,0.83,75,0.79,30,3,2,4,8.2,4.0,3.0,7,0,Medium
+EMP_2468,Customer Support,Bachelors,Lead,Female,46,18.4,3.5,Tier-2 (Mid),6,2.1,0.92,98,0.97,41,0,7,1,8.6,3.9,3.2,6,0,Medium
+EMP_1287,Sales,Bachelors,Junior,Female,22,1.5,4.0,Tier-1 (Entry),5,4.4,0.78,67,0.72,10,0,5,8,7.8,2.2,2.2,3,0,Low
+EMP_1991,Marketing,Masters,Mid-Level,Male,32,5.0,1.3,Tier-2 (Mid),6,6.2,0.72,69,0.73,14,4,6,2,8.1,3.1,3.1,7,0,Medium
+EMP_3091,Finance,Bachelors,Lead,Male,52,19.5,1.4,Tier-3 (Senior),6,8.6,0.73,68,0.78,12,1,3,3,8.2,3.6,2.6,3,0,Medium
+EMP_2810,Product,Bachelors,Senior,Male,43,12.1,5.0,Tier-3 (Senior),5,2.0,0.82,80,0.79,23,2,1,1,7.8,3.8,3.2,8,0,Medium
+EMP_1170,Marketing,Masters,Mid-Level,Female,30,4.0,0.6,Tier-2 (Mid),3,3.2,0.81,79,0.77,35,2,6,3,8.1,3.0,3.2,4,0,Medium
+EMP_2431,Sales,Bachelors,Lead,Male,45,12.8,5.6,Tier-4 (Lead/Exec),7,1.1,0.79,94,0.73,21,1,3,4,8.0,3.6,3.7,3,0,Medium
+EMP_2564,Customer Support,Masters,Junior,Male,25,2.9,0.8,Tier-1 (Entry),8,-4.5,0.85,107,0.83,52,3,6,0,9.5,4.7,3.8,12,1,High
+EMP_2194,Engineering,Bachelors,Mid-Level,Male,31,4.4,3.1,Tier-2 (Mid),5,1.1,0.81,64,0.68,16,0,5,2,8.3,3.5,3.3,3,0,Medium
+EMP_1458,Engineering,Bachelors,Lead,Male,53,23.0,0.9,Tier-4 (Lead/Exec),2,11.5,0.66,42,0.7,13,1,1,5,8.0,2.8,2.4,1,0,Low
+EMP_3046,Engineering,Bachelors,Senior,Male,41,14.6,3.9,Tier-3 (Senior),8,3.3,0.79,114,0.87,18,0,7,2,8.6,4.6,3.4,8,0,Medium
+EMP_1969,Sales,Bachelors,Senior,Male,43,13.6,1.8,Tier-3 (Senior),5,5.9,0.84,74,0.77,11,1,1,3,8.2,2.5,2.7,2,0,Medium
+EMP_1729,Engineering,Bachelors,Lead,Female,50,19.4,1.8,Tier-4 (Lead/Exec),4,0.2,0.92,113,0.88,62,1,5,1,9.1,5.0,4.0,7,0,High
+EMP_1281,Engineering,Masters,Mid-Level,Male,29,4.8,3.6,Tier-3 (Senior),2,6.0,0.8,61,0.73,26,1,0,1,7.7,2.8,3.2,5,0,Medium
+EMP_2322,Customer Support,Masters,Mid-Level,Male,35,7.8,2.9,Tier-2 (Mid),1,-0.1,0.75,60,0.95,32,1,2,5,8.3,3.6,3.6,2,0,Medium
+EMP_1101,Product,Bachelors,Mid-Level,Male,33,8.0,4.1,Tier-2 (Mid),7,4.5,0.92,93,0.75,35,2,7,3,7.8,2.8,3.6,8,0,Medium
+EMP_1620,Engineering,Bachelors,Junior,Male,24,3.2,5.3,Tier-2 (Mid),5,-4.7,1.0,124,0.94,52,3,2,0,8.9,4.3,4.8,9,1,High
+EMP_1240,Finance,Bachelors,Lead,Female,49,20.1,2.8,Tier-4 (Lead/Exec),1,11.4,0.68,63,0.71,8,0,5,5,7.6,2.4,2.7,3,0,Low
+EMP_1662,Product,Bachelors,Senior,Male,36,9.6,5.0,Tier-3 (Senior),5,10.9,0.71,52,0.65,2,0,3,4,8.1,2.0,2.3,2,0,Low
+EMP_2872,Sales,Bachelors,Mid-Level,Male,32,6.0,2.3,Tier-3 (Senior),4,2.4,0.8,98,0.83,21,2,3,2,8.2,3.1,3.3,6,0,Medium
+EMP_1132,Engineering,Bachelors,Junior,Male,24,2.0,3.0,Tier-1 (Entry),2,15.6,0.78,50,0.77,30,0,3,5,7.7,2.5,2.1,3,0,Low
+EMP_2446,Marketing,Masters,Lead,Female,47,16.5,0.8,Tier-3 (Senior),6,6.9,0.77,64,0.74,38,1,5,3,7.5,3.2,3.4,5,0,Medium
+EMP_2216,Engineering,Bachelors,Junior,Female,25,2.1,3.4,Tier-1 (Entry),4,2.3,0.85,79,0.83,35,1,1,8,8.5,3.5,3.2,8,0,Medium
+EMP_1791,Product,Masters,Mid-Level,Female,32,4.8,3.0,Tier-2 (Mid),3,6.5,0.78,82,0.77,5,1,10,3,8.1,2.9,2.6,5,0,Medium
+EMP_3307,Product,Diploma,Junior,Female,24,1.0,0.6,Tier-1 (Entry),7,1.2,0.83,85,0.88,32,3,3,1,8.5,3.2,3.2,12,0,Medium
+EMP_1511,Sales,Bachelors,Lead,Male,43,13.5,5.9,Tier-4 (Lead/Exec),8,2.6,0.8,83,0.78,47,2,2,0,8.6,3.6,3.4,10,0,Medium
+EMP_1731,Customer Support,Masters,Mid-Level,Male,31,6.1,3.7,Tier-2 (Mid),3,10.4,0.66,45,0.75,4,0,1,2,7.8,2.9,2.6,2,0,Low
+EMP_2559,Finance,Diploma,Lead,Male,51,21.2,5.5,Tier-4 (Lead/Exec),5,6.7,0.73,42,0.8,5,2,4,5,8.0,2.6,3.2,1,0,Low
+EMP_1160,Sales,Bachelors,Mid-Level,Male,31,4.6,3.2,Tier-2 (Mid),5,10.1,0.76,69,0.85,15,2,3,3,8.5,2.8,3.3,2,0,Medium
+EMP_2585,Engineering,Bachelors,Mid-Level,Male,33,7.0,4.0,Tier-2 (Mid),7,6.4,0.8,90,0.76,22,2,6,2,8.0,2.8,2.2,2,0,Medium
+EMP_3467,Engineering,Masters,Mid-Level,Male,31,6.9,2.0,Tier-2 (Mid),2,3.7,0.8,50,0.77,12,3,3,7,7.7,2.3,2.9,10,0,Medium
+EMP_2877,Sales,Masters,Junior,Male,25,1.9,3.7,Tier-1 (Entry),10,3.5,0.78,84,0.87,45,3,3,1,8.2,3.2,3.5,7,0,Medium
+EMP_2770,Sales,Masters,Junior,Male,26,3.5,3.2,Tier-1 (Entry),6,-5.0,0.92,138,0.96,58,0,9,1,8.6,4.6,4.6,11,1,High
+EMP_1578,Sales,Bachelors,Lead,Male,49,17.4,0.8,Tier-4 (Lead/Exec),1,15.9,0.7,42,0.75,2,1,2,5,7.5,1.3,1.8,1,0,Low
+EMP_2969,Engineering,Masters,Mid-Level,Male,28,4.1,2.7,Tier-2 (Mid),8,2.7,0.83,111,0.87,45,2,4,3,8.1,3.4,3.8,17,0,Medium
+EMP_2875,Sales,Bachelors,Mid-Level,Male,31,5.0,3.4,Tier-3 (Senior),4,-1.4,0.77,48,0.87,38,0,1,3,7.8,3.3,3.4,3,0,Medium
+EMP_2956,Product,Masters,Mid-Level,Male,32,7.4,0.9,Tier-2 (Mid),5,5.0,0.77,77,0.82,38,2,2,1,8.5,3.2,2.6,5,0,Medium
+EMP_3210,Marketing,Bachelors,Mid-Level,Male,30,4.2,2.3,Tier-2 (Mid),6,1.0,0.74,68,0.84,34,3,3,2,7.8,4.0,3.2,8,0,Medium
+EMP_3084,Sales,Masters,Mid-Level,Female,28,3.9,1.0,Tier-1 (Entry),4,17.4,0.66,44,0.81,13,1,1,9,6.8,2.4,2.0,0,0,Low
+EMP_2840,Sales,Bachelors,Lead,Female,46,12.1,5.2,Tier-3 (Senior),6,3.7,0.86,78,0.82,30,1,4,0,8.5,3.8,3.9,7,0,Medium
+EMP_2912,Finance,Masters,Junior,Female,24,1.3,3.3,Tier-1 (Entry),7,2.1,0.91,110,0.91,45,4,2,2,7.9,4.7,3.8,11,0,High
+EMP_2964,Product,Masters,Junior,Female,25,3.1,5.2,Tier-1 (Entry),7,1.4,0.95,108,0.9,50,3,5,1,9.4,3.8,4.3,10,0,High
+EMP_1396,Customer Support,Bachelors,Junior,Female,24,1.4,1.1,Tier-1 (Entry),7,-5.0,1.0,124,0.9,43,5,5,1,8.8,5.0,4.6,14,1,High
+EMP_1664,Engineering,Bachelors,Mid-Level,Male,31,7.8,4.3,Tier-3 (Senior),2,-1.6,0.81,98,0.88,28,2,4,0,8.0,4.0,3.8,6,0,Medium
+EMP_1298,Product,Diploma,Mid-Level,Male,30,6.3,2.3,Tier-1 (Entry),1,6.8,0.75,49,0.76,25,0,4,5,7.4,3.6,2.6,3,0,Medium
+EMP_3258,Engineering,Bachelors,Senior,Male,39,11.6,4.1,Tier-3 (Senior),5,-2.3,0.86,111,0.97,52,1,8,3,8.5,3.6,4.4,7,0,High
+EMP_2852,Customer Support,Bachelors,Lead,Female,56,23.0,0.9,Tier-4 (Lead/Exec),3,11.2,0.66,45,0.69,2,1,3,6,7.1,2.5,1.4,2,0,Low
+EMP_1068,Engineering,Masters,Lead,Female,43,13.9,4.8,Tier-4 (Lead/Exec),4,5.0,0.76,92,0.8,35,0,6,3,8.3,3.2,3.2,5,0,Medium
+EMP_1631,Customer Support,Masters,Mid-Level,Female,31,5.7,2.9,Tier-2 (Mid),9,-2.6,0.88,107,0.86,62,3,2,3,9.5,3.9,5.0,7,1,High
+EMP_3439,Engineering,Masters,Junior,Female,26,2.3,1.4,Tier-1 (Entry),6,-0.8,0.87,112,0.87,50,0,2,1,8.9,4.2,4.3,9,0,High
+EMP_3151,Engineering,Masters,Junior,Male,24,2.9,3.2,Tier-3 (Senior),4,4.4,0.75,46,0.84,26,0,3,3,8.6,3.0,3.3,1,0,Medium
+EMP_1284,Product,Masters,Mid-Level,Female,33,6.3,1.8,Tier-2 (Mid),5,5.5,0.9,76,0.85,30,1,1,3,7.5,3.2,3.4,6,0,Medium
+EMP_1377,Engineering,Bachelors,Junior,Male,23,1.4,1.9,Tier-1 (Entry),2,10.4,0.69,54,0.79,2,0,4,8,7.8,2.9,2.5,1,0,Low
+EMP_1926,Engineering,Bachelors,Senior,Male,41,13.2,3.8,Tier-3 (Senior),5,-1.8,0.9,124,0.99,31,0,2,2,7.6,4.2,4.0,11,0,High
+EMP_2635,Engineering,Bachelors,Junior,Female,25,2.9,3.9,Tier-1 (Entry),4,3.3,0.82,87,0.79,37,0,5,5,7.6,3.8,3.5,3,0,Medium
+EMP_3186,Customer Support,Bachelors,Mid-Level,Male,33,7.2,3.0,Tier-1 (Entry),5,0.1,0.93,93,0.84,28,1,3,2,7.7,3.4,4.1,6,0,Medium
+EMP_2726,Sales,Bachelors,Junior,Male,23,2.1,3.3,Tier-1 (Entry),8,2.7,0.72,100,0.93,22,6,5,2,8.7,3.6,3.4,9,0,Medium
+EMP_2721,Engineering,Masters,Junior,Female,23,2.0,6.0,Tier-1 (Entry),4,11.4,0.68,32,0.73,13,1,3,6,7.5,2.6,2.1,2,0,Low
+EMP_2056,Marketing,Bachelors,Mid-Level,Male,32,6.0,1.1,Tier-2 (Mid),11,-0.3,0.88,100,0.9,44,1,3,1,8.9,4.9,4.1,8,0,High
+EMP_1032,Engineering,Bachelors,Mid-Level,Male,33,6.2,3.1,Tier-2 (Mid),4,7.8,0.7,63,0.85,22,0,4,4,7.5,2.4,2.4,1,0,Low
+EMP_1372,Engineering,PhD,Mid-Level,Female,33,7.7,5.7,Tier-2 (Mid),1,-4.5,0.91,98,0.94,57,3,4,2,8.4,4.0,4.5,11,1,High
+EMP_2417,Engineering,Bachelors,Lead,Female,53,22.3,5.0,Tier-4 (Lead/Exec),5,2.0,0.92,94,0.84,25,2,3,3,8.6,3.8,3.6,8,1,Medium
+EMP_1150,Finance,Bachelors,Junior,Male,26,2.7,2.2,Tier-2 (Mid),8,-0.8,0.89,125,0.89,35,3,2,0,8.6,4.3,4.2,9,1,High
+EMP_3432,Finance,Diploma,Junior,Male,26,3.1,1.8,Tier-1 (Entry),1,4.3,0.72,83,0.71,21,3,4,4,7.6,2.6,3.2,7,0,Medium
+EMP_1710,Marketing,Bachelors,Junior,Male,24,2.3,2.1,Tier-1 (Entry),8,0.5,0.86,98,0.81,20,4,3,3,8.1,4.4,3.4,6,0,Medium
+EMP_2556,Product,Masters,Mid-Level,Female,31,6.4,4.2,Tier-2 (Mid),11,-5.0,1.0,167,1.0,46,4,5,0,9.6,5.0,5.0,7,1,High
+EMP_1309,Engineering,Masters,Senior,Male,39,10.7,2.0,Tier-3 (Senior),4,13.2,0.67,32,0.85,22,3,2,3,7.4,3.7,2.0,6,0,Low
+EMP_1816,Product,Bachelors,Junior,Female,24,2.6,0.8,Tier-2 (Mid),5,-3.4,0.86,111,0.87,55,4,8,2,8.9,4.2,4.7,15,1,High
+EMP_2397,Engineering,Masters,Junior,Female,23,0.7,3.7,Tier-2 (Mid),6,2.3,0.85,90,0.85,41,5,7,4,9.0,3.4,3.4,7,0,Medium
+EMP_1806,Finance,Bachelors,Junior,Male,24,2.8,3.3,Tier-3 (Senior),7,-5.0,0.82,124,0.86,32,6,1,1,8.9,4.6,5.0,5,0,High
+EMP_2266,Sales,Bachelors,Lead,Female,55,22.9,3.9,Tier-4 (Lead/Exec),4,10.1,0.75,68,0.84,2,0,4,1,7.7,2.8,2.7,1,0,Low
+EMP_2629,Sales,Bachelors,Mid-Level,Female,31,3.8,2.1,Tier-3 (Senior),5,2.6,0.78,78,0.87,17,1,6,1,8.3,3.5,3.6,5,0,Medium
+EMP_2062,Marketing,Bachelors,Mid-Level,Female,32,4.6,1.1,Tier-3 (Senior),7,2.3,0.87,80,0.86,41,2,5,3,8.4,3.5,3.5,4,0,Medium
+EMP_3277,Sales,Bachelors,Junior,Non-Binary,23,0.6,3.4,Tier-2 (Mid),6,9.6,0.68,81,0.65,19,0,5,1,8.0,4.2,3.2,11,0,Medium
+EMP_1814,Customer Support,Bachelors,Junior,Male,24,3.2,5.6,Tier-1 (Entry),3,9.2,0.66,67,0.87,2,2,2,4,8.3,2.3,2.4,0,0,Low
+EMP_1841,Product,Bachelors,Junior,Female,22,1.7,3.1,Tier-1 (Entry),5,2.3,0.8,95,0.84,30,1,3,2,8.1,3.4,3.5,7,0,Medium
+EMP_3193,Product,Bachelors,Junior,Female,25,2.0,2.8,Tier-1 (Entry),5,8.4,0.77,55,0.78,10,2,2,1,8.3,2.7,2.6,1,0,Low
+EMP_3191,Finance,Bachelors,Mid-Level,Male,31,6.9,0.9,Tier-3 (Senior),8,0.3,0.75,98,0.79,41,0,5,1,8.2,3.6,4.6,14,0,High
+EMP_3011,Engineering,Bachelors,Senior,Female,40,10.6,2.0,Tier-3 (Senior),7,-3.8,0.86,111,0.88,39,2,2,0,8.4,3.9,3.7,13,0,High
+EMP_2170,Product,Bachelors,Junior,Female,25,2.0,2.4,Tier-1 (Entry),4,9.3,0.71,55,0.75,24,2,3,4,8.5,2.8,2.6,2,0,Low
+EMP_3224,Engineering,Bachelors,Senior,Male,44,15.0,2.0,Tier-3 (Senior),4,9.5,0.74,26,0.79,34,1,2,4,8.1,2.9,3.2,4,0,Low
+EMP_1446,Finance,Bachelors,Junior,Female,25,3.1,2.7,Tier-1 (Entry),9,11.3,0.64,37,0.88,31,0,1,5,7.6,2.6,3.1,2,0,Low
+EMP_2611,Product,Bachelors,Senior,Female,40,10.7,2.6,Tier-3 (Senior),6,7.3,0.75,66,0.74,35,0,6,5,7.5,2.7,2.9,5,0,Medium
+EMP_2016,Engineering,Bachelors,Junior,Female,25,3.4,4.4,Tier-2 (Mid),5,6.2,0.76,69,0.87,25,5,4,4,8.0,2.8,3.3,4,0,Medium
+EMP_1277,Product,Bachelors,Junior,Female,22,0.9,0.6,Tier-1 (Entry),4,11.0,0.62,75,0.67,22,2,7,6,7.9,2.6,2.3,1,0,Low
+EMP_1154,Finance,Masters,Mid-Level,Female,35,7.9,1.6,Tier-2 (Mid),4,6.2,0.66,46,0.74,9,2,4,5,7.0,2.7,1.9,1,0,Low
+EMP_2055,Sales,Masters,Mid-Level,Female,29,3.7,6.0,Tier-2 (Mid),5,-2.6,0.89,124,1.0,61,3,8,2,8.6,3.9,4.3,12,1,High
+EMP_2961,Sales,Bachelors,Mid-Level,Male,31,4.3,4.8,Tier-2 (Mid),8,-1.4,0.85,118,0.93,49,1,4,0,9.3,3.4,4.2,6,1,High
+EMP_2614,Engineering,Masters,Junior,Male,23,1.2,2.5,Tier-2 (Mid),6,3.4,0.87,92,0.8,25,4,5,2,7.8,3.7,3.3,2,0,Medium
+EMP_3017,Customer Support,PhD,Junior,Female,24,2.1,0.6,Tier-2 (Mid),1,9.4,0.57,36,0.61,9,0,4,5,7.2,1.8,2.0,0,0,Low
+EMP_3047,Marketing,Masters,Junior,Male,24,1.1,2.8,Tier-3 (Senior),2,12.9,0.66,31,0.66,3,0,6,5,7.7,1.7,2.0,0,0,Low
+EMP_3331,Engineering,Masters,Senior,Female,36,8.2,2.0,Tier-3 (Senior),6,4.5,0.77,65,0.66,25,1,5,1,7.6,2.9,2.4,4,0,Medium
+EMP_1414,Product,Bachelors,Junior,Male,23,1.0,1.1,Tier-1 (Entry),3,3.6,0.73,59,0.71,34,0,1,3,8.6,3.6,3.3,4,0,Medium
+EMP_2481,Engineering,Masters,Mid-Level,Female,32,7.2,5.0,Tier-2 (Mid),6,2.8,0.85,66,0.84,30,3,2,3,8.9,2.9,3.0,9,0,Medium
+EMP_1955,Sales,Bachelors,Mid-Level,Male,32,7.0,1.5,Tier-2 (Mid),4,6.4,0.77,76,0.91,29,3,4,2,8.0,3.0,2.9,4,0,Medium
+EMP_3427,Finance,Bachelors,Junior,Non-Binary,23,1.6,1.9,Tier-2 (Mid),3,11.9,0.69,58,0.67,10,0,2,2,6.9,2.5,2.3,3,0,Low
+EMP_1877,Product,Bachelors,Mid-Level,Male,27,3.6,3.7,Tier-2 (Mid),2,2.3,0.81,83,0.85,33,3,3,4,7.9,3.5,3.4,4,0,Medium
+EMP_2699,Sales,Masters,Junior,Female,25,2.2,1.4,Tier-1 (Entry),3,4.0,0.81,90,0.91,39,3,2,0,8.4,3.6,3.4,7,0,Medium
+EMP_1771,Customer Support,Bachelors,Senior,Male,39,9.9,2.8,Tier-3 (Senior),2,6.1,0.78,56,0.71,21,2,8,4,7.6,2.8,2.6,0,0,Low
+EMP_2772,Customer Support,Bachelors,Mid-Level,Female,28,3.6,0.7,Tier-2 (Mid),2,13.1,0.71,51,0.77,22,0,1,4,7.3,2.8,2.1,1,0,Low
+EMP_2598,Engineering,Bachelors,Lead,Female,47,14.5,1.1,Tier-3 (Senior),2,4.2,0.75,62,0.67,30,4,5,3,7.8,2.4,2.6,3,0,Low
+EMP_1452,Sales,Masters,Junior,Female,24,0.8,0.9,Tier-2 (Mid),8,2.5,0.85,109,0.81,30,1,8,1,8.6,3.8,3.9,5,0,High
+EMP_1318,Engineering,Bachelors,Junior,Female,26,3.1,5.2,Tier-1 (Entry),9,5.9,0.78,102,0.85,18,1,5,1,8.6,3.6,3.7,7,0,Medium
+EMP_2870,Customer Support,Bachelors,Mid-Level,Female,32,6.0,0.7,Tier-2 (Mid),5,-0.7,0.84,81,0.91,48,1,4,1,8.3,3.3,3.5,6,0,Medium
+EMP_2327,Customer Support,Bachelors,Mid-Level,Male,32,7.3,5.1,Tier-2 (Mid),2,8.5,0.78,61,0.72,44,3,3,4,8.5,3.3,3.8,10,0,Medium
+EMP_3308,Engineering,Bachelors,Senior,Non-Binary,41,10.7,3.8,Tier-2 (Mid),6,2.1,0.76,90,0.79,37,2,3,4,8.1,3.9,3.6,8,0,Medium
+EMP_2944,Customer Support,Bachelors,Mid-Level,Male,30,5.5,1.8,Tier-2 (Mid),8,-5.0,0.92,117,0.88,34,4,5,2,8.7,4.5,4.2,8,1,High
+EMP_1981,Marketing,Bachelors,Junior,Male,24,2.8,5.9,Tier-1 (Entry),6,4.5,0.69,96,0.78,22,0,2,6,8.0,2.8,3.4,4,0,Medium
+EMP_1830,Engineering,Masters,Lead,Female,50,21.7,4.8,Tier-3 (Senior),4,5.9,0.67,82,0.86,31,1,1,3,7.6,3.2,3.0,3,0,Medium
+EMP_2901,Engineering,Bachelors,Junior,Male,22,0.6,3.2,Tier-1 (Entry),1,3.3,0.83,69,0.94,38,4,3,1,8.0,3.8,3.6,4,1,Medium
+EMP_1072,Engineering,Bachelors,Mid-Level,Male,31,6.3,3.7,Tier-2 (Mid),10,0.5,0.93,95,0.86,33,1,4,3,8.3,4.3,4.4,3,1,High
+EMP_2850,Engineering,Masters,Junior,Male,23,2.0,0.7,Tier-1 (Entry),6,-0.9,0.91,149,0.91,44,2,5,2,8.5,4.2,4.8,8,1,High
+EMP_1445,Finance,Bachelors,Junior,Male,24,2.2,2.2,Tier-1 (Entry),1,9.5,0.78,71,0.7,9,1,3,6,8.0,2.2,2.4,0,0,Low
+EMP_1848,Sales,Bachelors,Junior,Male,22,1.3,5.8,Tier-1 (Entry),3,4.2,0.65,96,0.81,42,3,2,0,7.9,3.2,3.1,7,0,Medium
+EMP_3489,Sales,Masters,Senior,Female,38,7.6,5.7,Tier-3 (Senior),6,4.3,0.79,76,0.8,37,0,3,4,8.3,3.4,3.6,7,0,Medium
+EMP_1390,Finance,Bachelors,Junior,Male,26,3.0,2.4,Tier-2 (Mid),3,6.8,0.7,20,0.66,9,1,5,2,7.4,2.5,2.1,2,0,Low
+EMP_2411,Engineering,Bachelors,Mid-Level,Female,35,7.5,3.6,Tier-3 (Senior),5,2.5,0.85,83,0.81,45,2,6,6,8.4,3.6,3.5,13,0,Medium
+EMP_3284,Engineering,Bachelors,Junior,Female,26,2.6,3.5,Tier-1 (Entry),8,7.8,0.78,83,0.78,29,1,5,5,7.7,3.7,2.4,5,0,Medium
+EMP_1329,Engineering,Bachelors,Mid-Level,Male,31,3.7,4.1,Tier-2 (Mid),8,1.2,0.83,101,0.92,40,1,3,3,7.9,3.7,3.6,11,0,Medium
+EMP_2891,Sales,Bachelors,Lead,Non-Binary,55,21.8,4.8,Tier-4 (Lead/Exec),4,-1.4,0.84,104,0.87,43,4,4,3,8.5,3.5,4.2,7,0,High
+EMP_1874,Engineering,Masters,Mid-Level,Female,32,7.7,1.6,Tier-2 (Mid),7,-0.3,0.93,128,0.94,33,1,1,3,9.0,3.7,4.4,10,1,High
+EMP_1539,Engineering,Bachelors,Mid-Level,Non-Binary,31,3.7,4.1,Tier-1 (Entry),4,13.8,0.72,20,0.84,2,0,4,5,7.0,2.3,1.7,1,0,Low
+EMP_2410,Engineering,Bachelors,Junior,Female,23,0.8,3.1,Tier-1 (Entry),1,2.0,0.88,93,0.9,33,1,1,1,8.8,3.7,3.7,5,0,Medium
+EMP_3174,Engineering,Bachelors,Junior,Male,25,3.0,1.6,Tier-1 (Entry),6,3.4,0.79,82,0.85,44,0,8,1,8.3,3.7,3.2,6,1,Medium
+EMP_1371,Engineering,Diploma,Junior,Male,24,1.8,5.8,Tier-2 (Mid),4,6.4,0.66,89,0.94,16,0,5,3,9.1,3.2,2.7,8,0,Medium
+EMP_1776,Engineering,Masters,Mid-Level,Male,32,7.6,1.3,Tier-2 (Mid),9,-2.7,0.99,137,0.81,46,3,3,0,8.8,5.0,4.6,10,1,High
+EMP_1316,Sales,Bachelors,Junior,Male,25,1.2,3.1,Tier-1 (Entry),1,13.8,0.7,47,0.82,27,0,6,9,7.6,2.2,1.7,0,0,Low
+EMP_1141,Engineering,Bachelors,Junior,Male,24,1.5,3.4,Tier-2 (Mid),4,9.3,0.82,76,0.74,32,1,5,4,8.6,2.8,3.2,4,0,Medium
+EMP_2920,Marketing,Bachelors,Lead,Female,43,13.3,5.6,Tier-4 (Lead/Exec),2,3.5,0.9,84,0.81,35,4,3,0,9.0,3.9,4.1,16,1,High
+EMP_1560,Marketing,Bachelors,Junior,Female,22,1.0,1.0,Tier-1 (Entry),2,9.8,0.62,34,0.78,9,0,2,4,7.5,2.3,2.2,2,0,Low
+EMP_2474,Engineering,Bachelors,Senior,Male,39,12.5,2.5,Tier-3 (Senior),6,7.9,0.69,65,0.84,23,1,2,5,8.0,2.7,2.8,2,0,Low
+EMP_3296,Engineering,Bachelors,Junior,Female,22,1.3,4.6,Tier-1 (Entry),4,5.1,0.75,96,0.76,35,1,3,2,8.0,2.8,3.6,8,0,Medium
+EMP_2089,Engineering,Bachelors,Junior,Female,26,2.7,1.5,Tier-2 (Mid),7,-1.2,0.86,101,0.88,28,0,5,1,8.6,3.9,4.3,12,1,High
+EMP_2091,Product,Bachelors,Senior,Male,41,12.0,1.8,Tier-3 (Senior),9,10.4,0.74,55,0.84,9,0,3,2,7.9,2.4,3.0,5,0,Medium
+EMP_1909,Sales,Bachelors,Junior,Male,25,3.0,3.9,Tier-1 (Entry),5,9.5,0.7,83,0.81,27,2,3,3,7.5,3.1,3.6,2,0,Medium
+EMP_1698,Engineering,Bachelors,Lead,Female,48,19.4,4.2,Tier-3 (Senior),8,-5.0,0.99,121,1.0,50,6,1,2,8.7,5.0,4.3,10,1,High
+EMP_1353,Engineering,PhD,Mid-Level,Male,33,6.7,3.0,Tier-1 (Entry),5,6.8,0.76,82,0.8,43,1,3,3,8.4,3.4,3.2,9,0,Medium
+EMP_3312,Sales,Bachelors,Junior,Male,23,1.2,5.4,Tier-2 (Mid),5,2.9,0.77,97,0.81,40,2,8,0,8.2,3.1,3.8,4,0,Medium
+EMP_2274,Sales,Masters,Mid-Level,Female,33,7.9,2.2,Tier-2 (Mid),3,2.2,0.86,100,0.88,29,0,3,3,8.6,3.1,3.3,9,1,Medium
+EMP_1562,Engineering,Bachelors,Junior,Female,23,0.7,5.3,Tier-1 (Entry),6,-0.5,0.9,84,0.99,50,1,4,2,8.5,3.7,3.7,5,0,Medium
+EMP_2470,Product,Diploma,Mid-Level,Male,33,6.0,3.3,Tier-2 (Mid),3,5.9,0.76,36,0.83,37,2,3,3,9.0,3.7,3.7,6,0,Medium
+EMP_3052,Engineering,Bachelors,Lead,Female,44,15.6,5.3,Tier-3 (Senior),7,-1.9,0.87,86,0.87,16,6,3,0,8.7,4.2,4.9,7,0,High
+EMP_1817,Sales,Bachelors,Mid-Level,Female,31,7.0,6.0,Tier-2 (Mid),12,-1.0,0.93,167,0.98,61,2,5,2,8.6,4.5,4.5,9,1,High
+EMP_3140,Customer Support,Diploma,Lead,Male,49,20.0,1.8,Tier-3 (Senior),5,2.7,0.79,95,0.79,19,2,6,4,8.6,3.8,3.0,6,0,Medium
+EMP_2023,Finance,Bachelors,Junior,Male,24,2.5,5.8,Tier-2 (Mid),8,7.6,0.81,74,0.79,23,4,0,4,8.5,4.0,3.0,5,0,Medium
+EMP_1397,Sales,Bachelors,Mid-Level,Male,29,4.2,5.3,Tier-2 (Mid),3,8.3,0.73,34,0.76,20,1,6,2,7.4,3.2,2.2,7,0,Low
+EMP_1469,Finance,Bachelors,Mid-Level,Female,32,6.1,1.3,Tier-2 (Mid),10,1.7,0.84,68,0.82,26,2,2,6,8.2,3.4,3.5,4,0,Medium
+EMP_1617,Engineering,Bachelors,Junior,Male,26,3.2,5.5,Tier-2 (Mid),3,8.1,0.77,80,0.74,11,1,4,7,7.7,3.1,2.6,2,0,Medium
+EMP_1675,Finance,Bachelors,Junior,Male,23,0.7,5.5,Tier-1 (Entry),3,2.8,0.9,104,0.72,27,0,5,1,7.7,3.4,3.0,8,0,Medium
+EMP_2185,Finance,Bachelors,Senior,Female,37,10.5,1.1,Tier-3 (Senior),6,2.3,0.74,98,0.89,37,1,3,1,8.2,3.4,3.5,6,0,Medium
+EMP_1501,Sales,Masters,Junior,Female,24,1.5,2.7,Tier-2 (Mid),4,9.2,0.7,47,0.78,15,1,7,4,7.7,2.9,2.0,0,0,Low
+EMP_2347,Sales,Bachelors,Lead,Female,45,13.8,4.0,Tier-3 (Senior),2,1.0,0.84,98,0.88,48,1,2,3,8.7,3.6,3.8,9,0,Medium
+EMP_1724,Product,Bachelors,Junior,Male,24,0.6,1.4,Tier-1 (Entry),11,0.5,0.82,88,0.8,31,4,7,2,8.9,4.5,4.1,10,0,High
+EMP_2822,Product,Masters,Lead,Female,54,22.8,2.7,Tier-4 (Lead/Exec),2,14.3,0.64,22,0.81,2,0,3,7,6.9,2.0,1.3,1,0,Low
+EMP_1802,Product,Bachelors,Junior,Female,22,0.6,1.4,Tier-3 (Senior),4,9.9,0.71,53,0.64,23,0,4,4,7.5,2.7,1.9,1,0,Low
+EMP_3279,Engineering,Bachelors,Mid-Level,Female,30,6.5,3.9,Tier-3 (Senior),4,2.8,0.74,78,0.84,34,1,3,4,8.3,3.7,3.7,4,0,Medium
+EMP_2918,Sales,Bachelors,Mid-Level,Female,34,7.6,1.5,Tier-2 (Mid),9,-0.5,0.94,115,0.88,41,3,7,1,8.7,4.5,4.3,12,0,High
+EMP_2002,Customer Support,Diploma,Senior,Male,45,14.9,4.5,Tier-2 (Mid),6,0.5,0.84,102,0.92,38,3,2,2,8.8,4.1,3.6,12,0,Medium

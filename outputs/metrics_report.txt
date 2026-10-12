@@ -1,0 +1,37 @@
+EMPLOYEE PERFORMANCE PREDICTOR - MODEL EVALUATION REPORT
+=================================================================
+
+Model Algorithm       : RandomForestClassifier
+Holdout Test Accuracy : 91.00%
+Macro F1-Score        : 0.9105
+Weighted F1-Score     : 0.9099
+
+CLASSIFICATION REPORT:
+              precision    recall  f1-score   support
+
+        High     0.8898    0.9040    0.8968       125
+         Low     0.8955    0.9600    0.9266       125
+      Medium     0.9289    0.8880    0.9080       250
+
+    accuracy                         0.9100       500
+   macro avg     0.9047    0.9173    0.9105       500
+weighted avg     0.9108    0.9100    0.9099       500
+
+
+TOP 10 FEATURE DRIVERS:
+ 1. manager_score                  : 0.1907
+ 2. story_points_completed         : 0.1373
+ 3. avg_task_delay_days            : 0.1334
+ 4. peer_feedback_score            : 0.1017
+ 5. on_time_delivery_rate          : 0.0954
+ 6. kudos_count                    : 0.0676
+ 7. training_hours                 : 0.0618
+ 8. avg_login_hours                : 0.0372
+ 9. unplanned_absences             : 0.0362
+10. billable_hours_ratio           : 0.0295
+
+FAIRNESS AND BIAS AUDIT:
+Gender Group  Sample Size High Performer Selection Rate Model Accuracy
+        Male          275                         24.7%          90.9%
+      Female          208                         26.9%          91.3%
+  Non-Binary           17                         17.6%          88.2%

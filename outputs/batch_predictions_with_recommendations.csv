@@ -1,0 +1,5 @@
+employee_id,department,job_level,predicted_performance,confidence,prob_High,prob_Medium,prob_Low,hr_decision,recommended_actions,review_timeline
+SIM_001_HIGH,Engineering,Senior,High,99.8%,0.998,0.002,0.0,Eligible for Promotion / High-Potential (HiPo) Fast Track,Nominate for Leadership Mentorship Program & High-Impact Strategic Projects,Quarterly Appraisal Calibration
+SIM_002_LOW,Sales,Junior,Low,99.0%,0.0,0.01,0.99,At-Risk Employee: Immediate Targeted Coaching & PIP Support Required,Enroll in Agile Sprint Planning & Workload Estimation Workshop | Conduct bi-weekly sprint blocker check-ins with Engineering Manager | Mandate 20 hours of domain-specific technical upskilling,30-Day Checkpoint
+SIM_003_MED,Product,Mid-Level,Medium,98.7%,0.008,0.987,0.005,Steady Performer: Solid Baseline with Targeted Upskilling Opportunities,Set stretch goals for the upcoming quarter to bridge gap to Senior band,Mid-Year Review
+SIM_004_TALENT_AT_RISK,Marketing,Mid-Level,High,58.0%,0.58,0.41,0.01,Eligible for Promotion / High-Potential (HiPo) Fast Track,Mandate 20 hours of domain-specific technical upskilling,Quarterly Appraisal Calibration
